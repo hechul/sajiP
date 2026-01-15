@@ -1,0 +1,28 @@
+{
+  "stems": { 
+    "甲": { "element": "Wood", "color": "Green", "korean": "갑" },
+    "乙": { "element": "Wood", "color": "Green", "korean": "을" },
+    "丙": { "element": "Fire", "color": "Red", "korean": "병" },
+    "丁": { "element": "Fire", "color": "Red", "korean": "정" },
+    "戊": { "element": "Earth", "color": "Yellow", "korean": "무" },
+    "己": { "element": "Earth", "color": "Yellow", "korean": "기" },
+    "庚": { "element": "Metal", "color": "White", "korean": "경" },
+    "辛": { "element": "Metal", "color": "White", "korean": "신" },
+    "壬": { "element": "Water", "color": "Black", "korean": "임" },
+    "癸": { "element": "Water", "color": "Black", "korean": "계" }
+  },
+  "branches": {
+    "子": { "animal": "Rat", "element": "Water", "korean": "자" },
+    "丑": { "animal": "Ox", "element": "Earth", "korean": "축" },
+    "寅": { "animal": "Tiger", "element": "Wood", "korean": "인" },
+    "卯": { "animal": "Rabbit", "element": "Wood", "korean": "묘" },
+    "辰": { "animal": "Dragon", "element": "Earth", "korean": "진" },
+    "巳": { "animal": "Snake", "element": "Fire", "korean": "사" },
+    "午": { "animal": "Horse", "element": "Fire", "korean": "오" },
+    "未": { "animal": "Sheep", "element": "Earth", "korean": "미" },
+    "申": { "animal": "Monkey", "element": "Metal", "korean": "신" },
+    "酉": { "animal": "Rooster", "element": "Metal", "korean": "유" },
+    "戌": { "animal": "Dog", "element": "Earth", "korean": "술" },
+    "亥": { "animal": "Pig", "element": "Water", "korean": "해" }
+  }
+}
