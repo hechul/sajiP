@@ -14,7 +14,8 @@
 - **Diagnosis**: `sajuMap.json` is valid. Issue is missing `resolveJsonModule` in `tsconfig.json`.
 - **Correction**: `tsconfig.json` is managed by Nuxt. Modifying `nuxt.config.ts` instead.
 - **Action**: Updated `nuxt.config.ts` to include `resolveJsonModule: true`.
-- **Status**: Fix applied. Waiting for user verification.
+- **User Request**: Explain the meaning of contents in `sajuMap.json` in the context of Saju.
+- **Action**: Reading `composables/useSaju.ts` (already read `sajuMap.json`) to explain the mapping logic.
 - **Debugging**: Checking the content of `test-saju.js` and running it to reproduce the error.
 - **Hypothesis**: Likely due to `package.json` having `"type": "module"` but the environment or file extension causing conflict, or simply the library wasn't installed successfully earlier.
 - **Action**: Verifying if `@types/lunar-javascript` exists.

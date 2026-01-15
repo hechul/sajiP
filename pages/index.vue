@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue';
-
+// 운세 데이터 불러오기
+import fortuneData from '@/assets/data/fortunes.json';
 // 1. 사주 계산 로직 (기존과 동일)
 const { getGanji } = useSaju();
 
@@ -13,7 +14,6 @@ const getTodayLocal = () => {
   return `${year}-${month}-${day}`;
 };
 // 2. 상태 관리 (YYYY-MM-DD)
-// 기본값: 2002-07-13 (님 생일로 고정해두면 테스트하기 편합니다)
 const birthDate = ref(getTodayLocal());
 
 // 3. 계산 (Computed)
@@ -22,7 +22,28 @@ const mySaju = computed(() => {
   // 타임존 이슈 해결을 위한 T00:00:00 추가
   return getGanji(new Date(birthDate.value + 'T00:00:00'));
   // T00:00:00 -> 사용자의 PC 시간(로컬 시간) 기준으로 0시
+  // new Date를 거치면서 내부적으로 시차에따라 값이 바뀌기 때문에 붙여야 함.
 });
+// 오늘의 사주
+const today = new Date(); // 실제 오늘 날짜
+const todaySaju = getGanji(today);
+
+const todayFortune = computed(() => {
+  const myElement = mySaju.value.day.gan.element; // 예: Water (님)
+  const todayElement = todaySaju.day.gan.element; // 예: Earth (오늘 1/15)
+  
+  // Key 만들기: "Water_Earth"
+  const key = `${myElement}_${todayElement}`;
+  
+  // 데이터 찾기 (없으면 기본값)
+  return (fortuneData as any)[key] || {
+    title: "Unknown Destiny",
+    score: 50,
+    desc: "The energies are mysterious today...",
+    advice: "Stay calm."
+  };
+});
+
 </script>
 
 <template>
@@ -97,9 +118,35 @@ const mySaju = computed(() => {
 
       </div>
 
-      <p class="text-center text-xs text-gray-400 font-mono">
-        Debug: {{ mySaju.day.gan.element }} Day Master
-      </p>
+      <div class="bg-gray-900 text-white rounded-xl shadow-xl overflow-hidden relative transform transition-all hover:scale-[1.01]">
+        <div class="bg-white/10 px-6 py-3 flex justify-between items-center">
+          <span class="text-xs font-bold text-purple-300 uppercase tracking-widest">Today's Energy</span>
+          <span class="text-xs text-gray-300 font-mono">{{ today.toLocaleDateString() }}</span>
+        </div>
+
+        <div class="p-8">
+          <div class="flex justify-between items-start mb-4">
+            <div>
+              <h2 class="text-3xl font-bold mt-2 text-white">{{ todayFortune.title }}</h2>
+              <p class="text-sm text-gray-400 mt-1">
+                {{ mySaju.day.gan.element }} meets {{ todaySaju.day.gan.element }}
+              </p>
+            </div>
+            <div class="bg-white text-gray-900 px-4 py-2 rounded-lg text-2xl font-bold shadow-lg">
+              {{ todayFortune.score }}
+            </div>
+          </div>
+          
+          <p class="text-gray-300 text-lg leading-relaxed mb-6 border-l-4 border-purple-500 pl-4">
+            {{ todayFortune.desc }}
+          </p>
+
+          <div class="bg-gray-800 p-4 rounded-lg border border-gray-700">
+            <span class="text-gray-500 text-[10px] uppercase font-bold block mb-1">Action Advice</span>
+            <p class="text-white font-medium">{{ todayFortune.advice }}</p>
+          </div>
+        </div>
+      </div>
 
     </div>
   </div>
