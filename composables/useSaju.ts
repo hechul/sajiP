@@ -14,7 +14,7 @@ type SajuInfo = {
 export const useSaju = () => {
     
     const translate = (hanja: string, type: 'stem' | 'branch'): SajuInfo => {
-    // sajuMap.stems['甲'] 이런 식으로 찾습니다.
+    // sajuMap.stems['甲'] 이런 식으로 찾음.
     const data = type === 'stem' 
       ? (sajuMap.stems as any)[hanja] 
       : (sajuMap.branches as any)[hanja];
@@ -33,7 +33,7 @@ export const useSaju = () => {
     const day = date.getDate();
 
     // 양력 날짜 객체로 변환
-    // 현재 날짜로 Solar 객체 생성
+    // 입력받은 날짜로 Solar 객체 생성
     const solar = Solar.fromYmd(year, month, day);
     
     // 현재 날짜인 객체를

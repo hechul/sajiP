@@ -1,0 +1,3752 @@
+{
+  "Wood_Wood_vs_Wood_Wood": {
+    "title": "Wood Meets Wood",
+    "score": 70,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Wood_vs_Wood_Fire": {
+    "title": "Wood Meets Wood",
+    "score": 65,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Wood_vs_Wood_Earth": {
+    "title": "Wood Meets Wood",
+    "score": 74,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Wood_vs_Wood_Metal": {
+    "title": "Wood Meets Wood",
+    "score": 49,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Wood_vs_Wood_Water": {
+    "title": "Wood Meets Wood",
+    "score": 78,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Wood_vs_Fire_Wood": {
+    "title": "Wood Meets Fire",
+    "score": 66,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Wood_vs_Fire_Fire": {
+    "title": "Wood Meets Fire",
+    "score": 59,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Wood_vs_Fire_Earth": {
+    "title": "Wood Meets Fire",
+    "score": 71,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Wood_vs_Fire_Metal": {
+    "title": "Wood Meets Fire",
+    "score": 43,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Wood_vs_Fire_Water": {
+    "title": "Wood Meets Fire",
+    "score": 75,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Wood_vs_Earth_Wood": {
+    "title": "Wood Meets Earth",
+    "score": 74,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Wood_vs_Earth_Fire": {
+    "title": "Wood Meets Earth",
+    "score": 68,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Wood_vs_Earth_Earth": {
+    "title": "Wood Meets Earth",
+    "score": 80,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Wood_vs_Earth_Metal": {
+    "title": "Wood Meets Earth",
+    "score": 57,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Wood_vs_Earth_Water": {
+    "title": "Wood Meets Earth",
+    "score": 86,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Wood_vs_Metal_Wood": {
+    "title": "Wood Meets Metal",
+    "score": 50,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Wood_vs_Metal_Fire": {
+    "title": "Wood Meets Metal",
+    "score": 43,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Wood_vs_Metal_Earth": {
+    "title": "Wood Meets Metal",
+    "score": 56,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Wood_vs_Metal_Metal": {
+    "title": "Wood Meets Metal",
+    "score": 40,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Wood_vs_Metal_Water": {
+    "title": "Wood Meets Metal",
+    "score": 59,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Wood_vs_Water_Wood": {
+    "title": "Wood Meets Water",
+    "score": 80,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Wood_vs_Water_Fire": {
+    "title": "Wood Meets Water",
+    "score": 73,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Wood_vs_Water_Earth": {
+    "title": "Wood Meets Water",
+    "score": 83,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Wood_vs_Water_Metal": {
+    "title": "Wood Meets Water",
+    "score": 58,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Wood_vs_Water_Water": {
+    "title": "Wood Meets Water",
+    "score": 89,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Fire_vs_Wood_Wood": {
+    "title": "Wood Meets Wood",
+    "score": 78,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Fire_vs_Wood_Fire": {
+    "title": "Wood Meets Wood",
+    "score": 68,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Fire_vs_Wood_Earth": {
+    "title": "Wood Meets Wood",
+    "score": 66,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Fire_vs_Wood_Metal": {
+    "title": "Wood Meets Wood",
+    "score": 76,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Fire_vs_Wood_Water": {
+    "title": "Wood Meets Wood",
+    "score": 49,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Fire_vs_Fire_Wood": {
+    "title": "Wood Meets Fire",
+    "score": 74,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Fire_vs_Fire_Fire": {
+    "title": "Wood Meets Fire",
+    "score": 66,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Fire_vs_Fire_Earth": {
+    "title": "Wood Meets Fire",
+    "score": 60,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Fire_vs_Fire_Metal": {
+    "title": "Wood Meets Fire",
+    "score": 72,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Fire_vs_Fire_Water": {
+    "title": "Wood Meets Fire",
+    "score": 46,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Fire_vs_Earth_Wood": {
+    "title": "Wood Meets Earth",
+    "score": 87,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Fire_vs_Earth_Fire": {
+    "title": "Wood Meets Earth",
+    "score": 77,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Fire_vs_Earth_Earth": {
+    "title": "Wood Meets Earth",
+    "score": 71,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Fire_vs_Earth_Metal": {
+    "title": "Wood Meets Earth",
+    "score": 82,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Fire_vs_Earth_Water": {
+    "title": "Wood Meets Earth",
+    "score": 53,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Fire_vs_Metal_Wood": {
+    "title": "Wood Meets Metal",
+    "score": 60,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Fire_vs_Metal_Fire": {
+    "title": "Wood Meets Metal",
+    "score": 48,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Fire_vs_Metal_Earth": {
+    "title": "Wood Meets Metal",
+    "score": 46,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Fire_vs_Metal_Metal": {
+    "title": "Wood Meets Metal",
+    "score": 56,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Fire_vs_Metal_Water": {
+    "title": "Wood Meets Metal",
+    "score": 40,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Fire_vs_Water_Wood": {
+    "title": "Wood Meets Water",
+    "score": 92,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Fire_vs_Water_Fire": {
+    "title": "Wood Meets Water",
+    "score": 78,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Fire_vs_Water_Earth": {
+    "title": "Wood Meets Water",
+    "score": 73,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Fire_vs_Water_Metal": {
+    "title": "Wood Meets Water",
+    "score": 85,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Fire_vs_Water_Water": {
+    "title": "Wood Meets Water",
+    "score": 59,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Earth_vs_Wood_Wood": {
+    "title": "Wood Meets Wood",
+    "score": 52,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Earth_vs_Wood_Fire": {
+    "title": "Wood Meets Wood",
+    "score": 79,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Earth_vs_Wood_Earth": {
+    "title": "Wood Meets Wood",
+    "score": 69,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Earth_vs_Wood_Metal": {
+    "title": "Wood Meets Wood",
+    "score": 64,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Earth_vs_Wood_Water": {
+    "title": "Wood Meets Wood",
+    "score": 76,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Earth_vs_Fire_Wood": {
+    "title": "Wood Meets Fire",
+    "score": 47,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Earth_vs_Fire_Fire": {
+    "title": "Wood Meets Fire",
+    "score": 76,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Earth_vs_Fire_Earth": {
+    "title": "Wood Meets Fire",
+    "score": 67,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Earth_vs_Fire_Metal": {
+    "title": "Wood Meets Fire",
+    "score": 58,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Earth_vs_Fire_Water": {
+    "title": "Wood Meets Fire",
+    "score": 72,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Earth_vs_Earth_Wood": {
+    "title": "Wood Meets Earth",
+    "score": 56,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Earth_vs_Earth_Fire": {
+    "title": "Wood Meets Earth",
+    "score": 84,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Earth_vs_Earth_Earth": {
+    "title": "Wood Meets Earth",
+    "score": 77,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Earth_vs_Earth_Metal": {
+    "title": "Wood Meets Earth",
+    "score": 69,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Earth_vs_Earth_Water": {
+    "title": "Wood Meets Earth",
+    "score": 82,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Earth_vs_Metal_Wood": {
+    "title": "Wood Meets Metal",
+    "score": 40,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Earth_vs_Metal_Fire": {
+    "title": "Wood Meets Metal",
+    "score": 61,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Earth_vs_Metal_Earth": {
+    "title": "Wood Meets Metal",
+    "score": 51,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Earth_vs_Metal_Metal": {
+    "title": "Wood Meets Metal",
+    "score": 47,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Earth_vs_Metal_Water": {
+    "title": "Wood Meets Metal",
+    "score": 53,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Earth_vs_Water_Wood": {
+    "title": "Wood Meets Water",
+    "score": 62,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Earth_vs_Water_Fire": {
+    "title": "Wood Meets Water",
+    "score": 90,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Earth_vs_Water_Earth": {
+    "title": "Wood Meets Water",
+    "score": 82,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Earth_vs_Water_Metal": {
+    "title": "Wood Meets Water",
+    "score": 74,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Earth_vs_Water_Water": {
+    "title": "Wood Meets Water",
+    "score": 85,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Metal_vs_Wood_Wood": {
+    "title": "Wood Meets Wood",
+    "score": 73,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Metal_vs_Wood_Fire": {
+    "title": "Wood Meets Wood",
+    "score": 49,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Metal_vs_Wood_Earth": {
+    "title": "Wood Meets Wood",
+    "score": 80,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Metal_vs_Wood_Metal": {
+    "title": "Wood Meets Wood",
+    "score": 68,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Metal_vs_Wood_Water": {
+    "title": "Wood Meets Wood",
+    "score": 64,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Metal_vs_Fire_Wood": {
+    "title": "Wood Meets Fire",
+    "score": 69,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Metal_vs_Fire_Fire": {
+    "title": "Wood Meets Fire",
+    "score": 47,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Metal_vs_Fire_Earth": {
+    "title": "Wood Meets Fire",
+    "score": 75,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Metal_vs_Fire_Metal": {
+    "title": "Wood Meets Fire",
+    "score": 64,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Metal_vs_Fire_Water": {
+    "title": "Wood Meets Fire",
+    "score": 61,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Metal_vs_Earth_Wood": {
+    "title": "Wood Meets Earth",
+    "score": 79,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Metal_vs_Earth_Fire": {
+    "title": "Wood Meets Earth",
+    "score": 57,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Metal_vs_Earth_Earth": {
+    "title": "Wood Meets Earth",
+    "score": 85,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Metal_vs_Earth_Metal": {
+    "title": "Wood Meets Earth",
+    "score": 74,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Metal_vs_Earth_Water": {
+    "title": "Wood Meets Earth",
+    "score": 70,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Metal_vs_Metal_Wood": {
+    "title": "Wood Meets Metal",
+    "score": 53,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Metal_vs_Metal_Fire": {
+    "title": "Wood Meets Metal",
+    "score": 40,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Metal_vs_Metal_Earth": {
+    "title": "Wood Meets Metal",
+    "score": 61,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Metal_vs_Metal_Metal": {
+    "title": "Wood Meets Metal",
+    "score": 49,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Metal_vs_Metal_Water": {
+    "title": "Wood Meets Metal",
+    "score": 45,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Metal_vs_Water_Wood": {
+    "title": "Wood Meets Water",
+    "score": 83,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Metal_vs_Water_Fire": {
+    "title": "Wood Meets Water",
+    "score": 61,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Metal_vs_Water_Earth": {
+    "title": "Wood Meets Water",
+    "score": 88,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Metal_vs_Water_Metal": {
+    "title": "Wood Meets Water",
+    "score": 80,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Metal_vs_Water_Water": {
+    "title": "Wood Meets Water",
+    "score": 74,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Water_vs_Wood_Wood": {
+    "title": "Wood Meets Wood",
+    "score": 66,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Water_vs_Wood_Fire": {
+    "title": "Wood Meets Wood",
+    "score": 73,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Water_vs_Wood_Earth": {
+    "title": "Wood Meets Wood",
+    "score": 50,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Water_vs_Wood_Metal": {
+    "title": "Wood Meets Wood",
+    "score": 78,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Water_vs_Wood_Water": {
+    "title": "Wood Meets Wood",
+    "score": 71,
+    "desc": "Your Wood energy meets another Wood. Like two trees standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your creative vibe."
+  },
+  "Wood_Water_vs_Fire_Wood": {
+    "title": "Wood Meets Fire",
+    "score": 59,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Water_vs_Fire_Fire": {
+    "title": "Wood Meets Fire",
+    "score": 71,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Water_vs_Fire_Earth": {
+    "title": "Wood Meets Fire",
+    "score": 43,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Water_vs_Fire_Metal": {
+    "title": "Wood Meets Fire",
+    "score": 77,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Water_vs_Fire_Water": {
+    "title": "Wood Meets Fire",
+    "score": 65,
+    "desc": "Your Wood creates Fire. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your creative ideas, but don't burn out."
+  },
+  "Wood_Water_vs_Earth_Wood": {
+    "title": "Wood Meets Earth",
+    "score": 71,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Water_vs_Earth_Fire": {
+    "title": "Wood Meets Earth",
+    "score": 80,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Water_vs_Earth_Earth": {
+    "title": "Wood Meets Earth",
+    "score": 54,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Water_vs_Earth_Metal": {
+    "title": "Wood Meets Earth",
+    "score": 85,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Water_vs_Earth_Water": {
+    "title": "Wood Meets Earth",
+    "score": 75,
+    "desc": "Your Wood controls Earth. You have the upper hand today. It's like a tree conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Wood_Water_vs_Metal_Wood": {
+    "title": "Wood Meets Metal",
+    "score": 44,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Water_vs_Metal_Fire": {
+    "title": "Wood Meets Metal",
+    "score": 56,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Water_vs_Metal_Earth": {
+    "title": "Wood Meets Metal",
+    "score": 40,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Water_vs_Metal_Metal": {
+    "title": "Wood Meets Metal",
+    "score": 62,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Water_vs_Metal_Water": {
+    "title": "Wood Meets Metal",
+    "score": 52,
+    "desc": "The Metal energy puts pressure on your Wood. It feels like a sword blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Wood_Water_vs_Water_Wood": {
+    "title": "Wood Meets Water",
+    "score": 75,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Water_vs_Water_Fire": {
+    "title": "Wood Meets Water",
+    "score": 86,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Water_vs_Water_Earth": {
+    "title": "Wood Meets Water",
+    "score": 60,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Water_vs_Water_Metal": {
+    "title": "Wood Meets Water",
+    "score": 90,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Wood_Water_vs_Water_Water": {
+    "title": "Wood Meets Water",
+    "score": 78,
+    "desc": "The Water feeds your Wood. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Wood_vs_Wood_Wood": {
+    "title": "Fire Meets Wood",
+    "score": 78,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Wood_vs_Wood_Fire": {
+    "title": "Fire Meets Wood",
+    "score": 76,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Wood_vs_Wood_Earth": {
+    "title": "Fire Meets Wood",
+    "score": 84,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Wood_vs_Wood_Metal": {
+    "title": "Fire Meets Wood",
+    "score": 61,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Wood_vs_Wood_Water": {
+    "title": "Fire Meets Wood",
+    "score": 90,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Wood_vs_Fire_Wood": {
+    "title": "Fire Meets Fire",
+    "score": 68,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Wood_vs_Fire_Fire": {
+    "title": "Fire Meets Fire",
+    "score": 63,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Wood_vs_Fire_Earth": {
+    "title": "Fire Meets Fire",
+    "score": 75,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Wood_vs_Fire_Metal": {
+    "title": "Fire Meets Fire",
+    "score": 51,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Wood_vs_Fire_Water": {
+    "title": "Fire Meets Fire",
+    "score": 78,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Wood_vs_Earth_Wood": {
+    "title": "Fire Meets Earth",
+    "score": 67,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Wood_vs_Earth_Fire": {
+    "title": "Fire Meets Earth",
+    "score": 62,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Wood_vs_Earth_Earth": {
+    "title": "Fire Meets Earth",
+    "score": 69,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Wood_vs_Earth_Metal": {
+    "title": "Fire Meets Earth",
+    "score": 47,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Wood_vs_Earth_Water": {
+    "title": "Fire Meets Earth",
+    "score": 76,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Wood_vs_Metal_Wood": {
+    "title": "Fire Meets Metal",
+    "score": 73,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Wood_vs_Metal_Fire": {
+    "title": "Fire Meets Metal",
+    "score": 69,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Wood_vs_Metal_Earth": {
+    "title": "Fire Meets Metal",
+    "score": 78,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Wood_vs_Metal_Metal": {
+    "title": "Fire Meets Metal",
+    "score": 53,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Wood_vs_Metal_Water": {
+    "title": "Fire Meets Metal",
+    "score": 84,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Wood_vs_Water_Wood": {
+    "title": "Fire Meets Water",
+    "score": 52,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Wood_vs_Water_Fire": {
+    "title": "Fire Meets Water",
+    "score": 45,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Wood_vs_Water_Earth": {
+    "title": "Fire Meets Water",
+    "score": 56,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Wood_vs_Water_Metal": {
+    "title": "Fire Meets Water",
+    "score": 40,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Wood_vs_Water_Water": {
+    "title": "Fire Meets Water",
+    "score": 60,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Fire_vs_Wood_Wood": {
+    "title": "Fire Meets Wood",
+    "score": 89,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Fire_vs_Wood_Fire": {
+    "title": "Fire Meets Wood",
+    "score": 78,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Fire_vs_Wood_Earth": {
+    "title": "Fire Meets Wood",
+    "score": 75,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Fire_vs_Wood_Metal": {
+    "title": "Fire Meets Wood",
+    "score": 84,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Fire_vs_Wood_Water": {
+    "title": "Fire Meets Wood",
+    "score": 59,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Fire_vs_Fire_Wood": {
+    "title": "Fire Meets Fire",
+    "score": 78,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Fire_vs_Fire_Fire": {
+    "title": "Fire Meets Fire",
+    "score": 69,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Fire_vs_Fire_Earth": {
+    "title": "Fire Meets Fire",
+    "score": 64,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Fire_vs_Fire_Metal": {
+    "title": "Fire Meets Fire",
+    "score": 77,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Fire_vs_Fire_Water": {
+    "title": "Fire Meets Fire",
+    "score": 49,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Fire_vs_Earth_Wood": {
+    "title": "Fire Meets Earth",
+    "score": 74,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Fire_vs_Earth_Fire": {
+    "title": "Fire Meets Earth",
+    "score": 64,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Fire_vs_Earth_Earth": {
+    "title": "Fire Meets Earth",
+    "score": 58,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Fire_vs_Earth_Metal": {
+    "title": "Fire Meets Earth",
+    "score": 69,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Fire_vs_Earth_Water": {
+    "title": "Fire Meets Earth",
+    "score": 46,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Fire_vs_Metal_Wood": {
+    "title": "Fire Meets Metal",
+    "score": 86,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Fire_vs_Metal_Fire": {
+    "title": "Fire Meets Metal",
+    "score": 74,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Fire_vs_Metal_Earth": {
+    "title": "Fire Meets Metal",
+    "score": 69,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Fire_vs_Metal_Metal": {
+    "title": "Fire Meets Metal",
+    "score": 79,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Fire_vs_Metal_Water": {
+    "title": "Fire Meets Metal",
+    "score": 57,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Fire_vs_Water_Wood": {
+    "title": "Fire Meets Water",
+    "score": 59,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Fire_vs_Water_Fire": {
+    "title": "Fire Meets Water",
+    "score": 51,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Fire_vs_Water_Earth": {
+    "title": "Fire Meets Water",
+    "score": 44,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Fire_vs_Water_Metal": {
+    "title": "Fire Meets Water",
+    "score": 56,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Fire_vs_Water_Water": {
+    "title": "Fire Meets Water",
+    "score": 40,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Earth_vs_Wood_Wood": {
+    "title": "Fire Meets Wood",
+    "score": 58,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Earth_vs_Wood_Fire": {
+    "title": "Fire Meets Wood",
+    "score": 90,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Earth_vs_Wood_Earth": {
+    "title": "Fire Meets Wood",
+    "score": 79,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Earth_vs_Wood_Metal": {
+    "title": "Fire Meets Wood",
+    "score": 75,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Earth_vs_Wood_Water": {
+    "title": "Fire Meets Wood",
+    "score": 85,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Earth_vs_Fire_Wood": {
+    "title": "Fire Meets Fire",
+    "score": 51,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Earth_vs_Fire_Fire": {
+    "title": "Fire Meets Fire",
+    "score": 82,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Earth_vs_Fire_Earth": {
+    "title": "Fire Meets Fire",
+    "score": 68,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Earth_vs_Fire_Metal": {
+    "title": "Fire Meets Fire",
+    "score": 64,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Earth_vs_Fire_Water": {
+    "title": "Fire Meets Fire",
+    "score": 73,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Earth_vs_Earth_Wood": {
+    "title": "Fire Meets Earth",
+    "score": 46,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Earth_vs_Earth_Fire": {
+    "title": "Fire Meets Earth",
+    "score": 77,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Earth_vs_Earth_Earth": {
+    "title": "Fire Meets Earth",
+    "score": 66,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Earth_vs_Earth_Metal": {
+    "title": "Fire Meets Earth",
+    "score": 59,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Earth_vs_Earth_Water": {
+    "title": "Fire Meets Earth",
+    "score": 72,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Earth_vs_Metal_Wood": {
+    "title": "Fire Meets Metal",
+    "score": 55,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Earth_vs_Metal_Fire": {
+    "title": "Fire Meets Metal",
+    "score": 83,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Earth_vs_Metal_Earth": {
+    "title": "Fire Meets Metal",
+    "score": 74,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Earth_vs_Metal_Metal": {
+    "title": "Fire Meets Metal",
+    "score": 71,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Earth_vs_Metal_Water": {
+    "title": "Fire Meets Metal",
+    "score": 82,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Earth_vs_Water_Wood": {
+    "title": "Fire Meets Water",
+    "score": 40,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Earth_vs_Water_Fire": {
+    "title": "Fire Meets Water",
+    "score": 61,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Earth_vs_Water_Earth": {
+    "title": "Fire Meets Water",
+    "score": 52,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Earth_vs_Water_Metal": {
+    "title": "Fire Meets Water",
+    "score": 44,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Earth_vs_Water_Water": {
+    "title": "Fire Meets Water",
+    "score": 55,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Metal_vs_Wood_Wood": {
+    "title": "Fire Meets Wood",
+    "score": 86,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Metal_vs_Wood_Fire": {
+    "title": "Fire Meets Wood",
+    "score": 61,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Metal_vs_Wood_Earth": {
+    "title": "Fire Meets Wood",
+    "score": 90,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Metal_vs_Wood_Metal": {
+    "title": "Fire Meets Wood",
+    "score": 78,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Metal_vs_Wood_Water": {
+    "title": "Fire Meets Wood",
+    "score": 75,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Metal_vs_Fire_Wood": {
+    "title": "Fire Meets Fire",
+    "score": 74,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Metal_vs_Fire_Fire": {
+    "title": "Fire Meets Fire",
+    "score": 50,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Metal_vs_Fire_Earth": {
+    "title": "Fire Meets Fire",
+    "score": 82,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Metal_vs_Fire_Metal": {
+    "title": "Fire Meets Fire",
+    "score": 70,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Metal_vs_Fire_Water": {
+    "title": "Fire Meets Fire",
+    "score": 63,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Metal_vs_Earth_Wood": {
+    "title": "Fire Meets Earth",
+    "score": 68,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Metal_vs_Earth_Fire": {
+    "title": "Fire Meets Earth",
+    "score": 45,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Metal_vs_Earth_Earth": {
+    "title": "Fire Meets Earth",
+    "score": 74,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Metal_vs_Earth_Metal": {
+    "title": "Fire Meets Earth",
+    "score": 67,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Metal_vs_Earth_Water": {
+    "title": "Fire Meets Earth",
+    "score": 60,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Metal_vs_Metal_Wood": {
+    "title": "Fire Meets Metal",
+    "score": 80,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Metal_vs_Metal_Fire": {
+    "title": "Fire Meets Metal",
+    "score": 54,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Metal_vs_Metal_Earth": {
+    "title": "Fire Meets Metal",
+    "score": 87,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Metal_vs_Metal_Metal": {
+    "title": "Fire Meets Metal",
+    "score": 74,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Metal_vs_Metal_Water": {
+    "title": "Fire Meets Metal",
+    "score": 68,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Metal_vs_Water_Wood": {
+    "title": "Fire Meets Water",
+    "score": 53,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Metal_vs_Water_Fire": {
+    "title": "Fire Meets Water",
+    "score": 40,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Metal_vs_Water_Earth": {
+    "title": "Fire Meets Water",
+    "score": 62,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Metal_vs_Water_Metal": {
+    "title": "Fire Meets Water",
+    "score": 48,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Metal_vs_Water_Water": {
+    "title": "Fire Meets Water",
+    "score": 43,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Water_vs_Wood_Wood": {
+    "title": "Fire Meets Wood",
+    "score": 74,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Water_vs_Wood_Fire": {
+    "title": "Fire Meets Wood",
+    "score": 87,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Water_vs_Wood_Earth": {
+    "title": "Fire Meets Wood",
+    "score": 58,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Water_vs_Wood_Metal": {
+    "title": "Fire Meets Wood",
+    "score": 90,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Water_vs_Wood_Water": {
+    "title": "Fire Meets Wood",
+    "score": 78,
+    "desc": "The Wood feeds your Fire. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Fire_Water_vs_Fire_Wood": {
+    "title": "Fire Meets Fire",
+    "score": 67,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Water_vs_Fire_Fire": {
+    "title": "Fire Meets Fire",
+    "score": 74,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Water_vs_Fire_Earth": {
+    "title": "Fire Meets Fire",
+    "score": 52,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Water_vs_Fire_Metal": {
+    "title": "Fire Meets Fire",
+    "score": 78,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Water_vs_Fire_Water": {
+    "title": "Fire Meets Fire",
+    "score": 70,
+    "desc": "Your Fire energy meets another Fire. Like two flames standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your passionate vibe."
+  },
+  "Fire_Water_vs_Earth_Wood": {
+    "title": "Fire Meets Earth",
+    "score": 62,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Water_vs_Earth_Fire": {
+    "title": "Fire Meets Earth",
+    "score": 70,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Water_vs_Earth_Earth": {
+    "title": "Fire Meets Earth",
+    "score": 46,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Water_vs_Earth_Metal": {
+    "title": "Fire Meets Earth",
+    "score": 76,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Water_vs_Earth_Water": {
+    "title": "Fire Meets Earth",
+    "score": 65,
+    "desc": "Your Fire creates Earth. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your passionate ideas, but don't burn out."
+  },
+  "Fire_Water_vs_Metal_Wood": {
+    "title": "Fire Meets Metal",
+    "score": 70,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Water_vs_Metal_Fire": {
+    "title": "Fire Meets Metal",
+    "score": 80,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Water_vs_Metal_Earth": {
+    "title": "Fire Meets Metal",
+    "score": 53,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Water_vs_Metal_Metal": {
+    "title": "Fire Meets Metal",
+    "score": 83,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Water_vs_Metal_Water": {
+    "title": "Fire Meets Metal",
+    "score": 74,
+    "desc": "Your Fire controls Metal. You have the upper hand today. It's like a flame conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Fire_Water_vs_Water_Wood": {
+    "title": "Fire Meets Water",
+    "score": 46,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Water_vs_Water_Fire": {
+    "title": "Fire Meets Water",
+    "score": 54,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Water_vs_Water_Earth": {
+    "title": "Fire Meets Water",
+    "score": 40,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Water_vs_Water_Metal": {
+    "title": "Fire Meets Water",
+    "score": 62,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Fire_Water_vs_Water_Water": {
+    "title": "Fire Meets Water",
+    "score": 52,
+    "desc": "The Water energy puts pressure on your Fire. It feels like a ocean blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Wood_vs_Wood_Wood": {
+    "title": "Earth Meets Wood",
+    "score": 49,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Wood_vs_Wood_Fire": {
+    "title": "Earth Meets Wood",
+    "score": 45,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Wood_vs_Wood_Earth": {
+    "title": "Earth Meets Wood",
+    "score": 55,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Wood_vs_Wood_Metal": {
+    "title": "Earth Meets Wood",
+    "score": 40,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Wood_vs_Wood_Water": {
+    "title": "Earth Meets Wood",
+    "score": 58,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Wood_vs_Fire_Wood": {
+    "title": "Earth Meets Fire",
+    "score": 79,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Wood_vs_Fire_Fire": {
+    "title": "Earth Meets Fire",
+    "score": 73,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Wood_vs_Fire_Earth": {
+    "title": "Earth Meets Fire",
+    "score": 86,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Wood_vs_Fire_Metal": {
+    "title": "Earth Meets Fire",
+    "score": 60,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Wood_vs_Fire_Water": {
+    "title": "Earth Meets Fire",
+    "score": 88,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Wood_vs_Earth_Wood": {
+    "title": "Earth Meets Earth",
+    "score": 69,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Wood_vs_Earth_Fire": {
+    "title": "Earth Meets Earth",
+    "score": 67,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Wood_vs_Earth_Earth": {
+    "title": "Earth Meets Earth",
+    "score": 74,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Wood_vs_Earth_Metal": {
+    "title": "Earth Meets Earth",
+    "score": 48,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Wood_vs_Earth_Water": {
+    "title": "Earth Meets Earth",
+    "score": 78,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Wood_vs_Metal_Wood": {
+    "title": "Earth Meets Metal",
+    "score": 65,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Wood_vs_Metal_Fire": {
+    "title": "Earth Meets Metal",
+    "score": 62,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Wood_vs_Metal_Earth": {
+    "title": "Earth Meets Metal",
+    "score": 69,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Wood_vs_Metal_Metal": {
+    "title": "Earth Meets Metal",
+    "score": 45,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Wood_vs_Metal_Water": {
+    "title": "Earth Meets Metal",
+    "score": 73,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Wood_vs_Water_Wood": {
+    "title": "Earth Meets Water",
+    "score": 76,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Wood_vs_Water_Fire": {
+    "title": "Earth Meets Water",
+    "score": 71,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Wood_vs_Water_Earth": {
+    "title": "Earth Meets Water",
+    "score": 78,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Wood_vs_Water_Metal": {
+    "title": "Earth Meets Water",
+    "score": 55,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Wood_vs_Water_Water": {
+    "title": "Earth Meets Water",
+    "score": 84,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Fire_vs_Wood_Wood": {
+    "title": "Earth Meets Wood",
+    "score": 61,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Fire_vs_Wood_Fire": {
+    "title": "Earth Meets Wood",
+    "score": 51,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Fire_vs_Wood_Earth": {
+    "title": "Earth Meets Wood",
+    "score": 43,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Fire_vs_Wood_Metal": {
+    "title": "Earth Meets Wood",
+    "score": 54,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Fire_vs_Wood_Water": {
+    "title": "Earth Meets Wood",
+    "score": 40,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Fire_vs_Fire_Wood": {
+    "title": "Earth Meets Fire",
+    "score": 90,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Fire_vs_Fire_Fire": {
+    "title": "Earth Meets Fire",
+    "score": 79,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Fire_vs_Fire_Earth": {
+    "title": "Earth Meets Fire",
+    "score": 77,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Fire_vs_Fire_Metal": {
+    "title": "Earth Meets Fire",
+    "score": 87,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Fire_vs_Fire_Water": {
+    "title": "Earth Meets Fire",
+    "score": 59,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Fire_vs_Earth_Wood": {
+    "title": "Earth Meets Earth",
+    "score": 81,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Fire_vs_Earth_Fire": {
+    "title": "Earth Meets Earth",
+    "score": 71,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Fire_vs_Earth_Earth": {
+    "title": "Earth Meets Earth",
+    "score": 66,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Fire_vs_Earth_Metal": {
+    "title": "Earth Meets Earth",
+    "score": 73,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Fire_vs_Earth_Water": {
+    "title": "Earth Meets Earth",
+    "score": 49,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Fire_vs_Metal_Wood": {
+    "title": "Earth Meets Metal",
+    "score": 73,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Fire_vs_Metal_Fire": {
+    "title": "Earth Meets Metal",
+    "score": 66,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Fire_vs_Metal_Earth": {
+    "title": "Earth Meets Metal",
+    "score": 59,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Fire_vs_Metal_Metal": {
+    "title": "Earth Meets Metal",
+    "score": 70,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Fire_vs_Metal_Water": {
+    "title": "Earth Meets Metal",
+    "score": 44,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Fire_vs_Water_Wood": {
+    "title": "Earth Meets Water",
+    "score": 83,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Fire_vs_Water_Fire": {
+    "title": "Earth Meets Water",
+    "score": 76,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Fire_vs_Water_Earth": {
+    "title": "Earth Meets Water",
+    "score": 68,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Fire_vs_Water_Metal": {
+    "title": "Earth Meets Water",
+    "score": 82,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Fire_vs_Water_Water": {
+    "title": "Earth Meets Water",
+    "score": 55,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Earth_vs_Wood_Wood": {
+    "title": "Earth Meets Wood",
+    "score": 40,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Earth_vs_Wood_Fire": {
+    "title": "Earth Meets Wood",
+    "score": 61,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Earth_vs_Wood_Earth": {
+    "title": "Earth Meets Wood",
+    "score": 50,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Earth_vs_Wood_Metal": {
+    "title": "Earth Meets Wood",
+    "score": 45,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Earth_vs_Wood_Water": {
+    "title": "Earth Meets Wood",
+    "score": 54,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Earth_vs_Fire_Wood": {
+    "title": "Earth Meets Fire",
+    "score": 62,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Earth_vs_Fire_Fire": {
+    "title": "Earth Meets Fire",
+    "score": 92,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Earth_vs_Fire_Earth": {
+    "title": "Earth Meets Fire",
+    "score": 79,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Earth_vs_Fire_Metal": {
+    "title": "Earth Meets Fire",
+    "score": 74,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Earth_vs_Fire_Water": {
+    "title": "Earth Meets Fire",
+    "score": 84,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Earth_vs_Earth_Wood": {
+    "title": "Earth Meets Earth",
+    "score": 48,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Earth_vs_Earth_Fire": {
+    "title": "Earth Meets Earth",
+    "score": 82,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Earth_vs_Earth_Earth": {
+    "title": "Earth Meets Earth",
+    "score": 71,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Earth_vs_Earth_Metal": {
+    "title": "Earth Meets Earth",
+    "score": 64,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Earth_vs_Earth_Water": {
+    "title": "Earth Meets Earth",
+    "score": 77,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Earth_vs_Metal_Wood": {
+    "title": "Earth Meets Metal",
+    "score": 47,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Earth_vs_Metal_Fire": {
+    "title": "Earth Meets Metal",
+    "score": 75,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Earth_vs_Metal_Earth": {
+    "title": "Earth Meets Metal",
+    "score": 66,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Earth_vs_Metal_Metal": {
+    "title": "Earth Meets Metal",
+    "score": 62,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Earth_vs_Metal_Water": {
+    "title": "Earth Meets Metal",
+    "score": 71,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Earth_vs_Water_Wood": {
+    "title": "Earth Meets Water",
+    "score": 55,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Earth_vs_Water_Fire": {
+    "title": "Earth Meets Water",
+    "score": 86,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Earth_vs_Water_Earth": {
+    "title": "Earth Meets Water",
+    "score": 74,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Earth_vs_Water_Metal": {
+    "title": "Earth Meets Water",
+    "score": 69,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Earth_vs_Water_Water": {
+    "title": "Earth Meets Water",
+    "score": 79,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Metal_vs_Wood_Wood": {
+    "title": "Earth Meets Wood",
+    "score": 56,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Metal_vs_Wood_Fire": {
+    "title": "Earth Meets Wood",
+    "score": 40,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Metal_vs_Wood_Earth": {
+    "title": "Earth Meets Wood",
+    "score": 62,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Metal_vs_Wood_Metal": {
+    "title": "Earth Meets Wood",
+    "score": 51,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Metal_vs_Wood_Water": {
+    "title": "Earth Meets Wood",
+    "score": 45,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Metal_vs_Fire_Wood": {
+    "title": "Earth Meets Fire",
+    "score": 86,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Metal_vs_Fire_Fire": {
+    "title": "Earth Meets Fire",
+    "score": 61,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Metal_vs_Fire_Earth": {
+    "title": "Earth Meets Fire",
+    "score": 92,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Metal_vs_Fire_Metal": {
+    "title": "Earth Meets Fire",
+    "score": 78,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Metal_vs_Fire_Water": {
+    "title": "Earth Meets Fire",
+    "score": 74,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Metal_vs_Earth_Wood": {
+    "title": "Earth Meets Earth",
+    "score": 77,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Metal_vs_Earth_Fire": {
+    "title": "Earth Meets Earth",
+    "score": 51,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Metal_vs_Earth_Earth": {
+    "title": "Earth Meets Earth",
+    "score": 80,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Metal_vs_Earth_Metal": {
+    "title": "Earth Meets Earth",
+    "score": 68,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Metal_vs_Earth_Water": {
+    "title": "Earth Meets Earth",
+    "score": 63,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Metal_vs_Metal_Wood": {
+    "title": "Earth Meets Metal",
+    "score": 69,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Metal_vs_Metal_Fire": {
+    "title": "Earth Meets Metal",
+    "score": 45,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Metal_vs_Metal_Earth": {
+    "title": "Earth Meets Metal",
+    "score": 74,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Metal_vs_Metal_Metal": {
+    "title": "Earth Meets Metal",
+    "score": 66,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Metal_vs_Metal_Water": {
+    "title": "Earth Meets Metal",
+    "score": 62,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Metal_vs_Water_Wood": {
+    "title": "Earth Meets Water",
+    "score": 82,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Metal_vs_Water_Fire": {
+    "title": "Earth Meets Water",
+    "score": 53,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Metal_vs_Water_Earth": {
+    "title": "Earth Meets Water",
+    "score": 83,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Metal_vs_Water_Metal": {
+    "title": "Earth Meets Water",
+    "score": 75,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Metal_vs_Water_Water": {
+    "title": "Earth Meets Water",
+    "score": 68,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Water_vs_Wood_Wood": {
+    "title": "Earth Meets Wood",
+    "score": 43,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Water_vs_Wood_Fire": {
+    "title": "Earth Meets Wood",
+    "score": 54,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Water_vs_Wood_Earth": {
+    "title": "Earth Meets Wood",
+    "score": 40,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Water_vs_Wood_Metal": {
+    "title": "Earth Meets Wood",
+    "score": 62,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Water_vs_Wood_Water": {
+    "title": "Earth Meets Wood",
+    "score": 48,
+    "desc": "The Wood energy puts pressure on your Earth. It feels like a tree blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Earth_Water_vs_Fire_Wood": {
+    "title": "Earth Meets Fire",
+    "score": 76,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Water_vs_Fire_Fire": {
+    "title": "Earth Meets Fire",
+    "score": 83,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Water_vs_Fire_Earth": {
+    "title": "Earth Meets Fire",
+    "score": 60,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Water_vs_Fire_Metal": {
+    "title": "Earth Meets Fire",
+    "score": 91,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Water_vs_Fire_Water": {
+    "title": "Earth Meets Fire",
+    "score": 79,
+    "desc": "The Fire feeds your Earth. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Earth_Water_vs_Earth_Wood": {
+    "title": "Earth Meets Earth",
+    "score": 65,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Water_vs_Earth_Fire": {
+    "title": "Earth Meets Earth",
+    "score": 76,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Water_vs_Earth_Earth": {
+    "title": "Earth Meets Earth",
+    "score": 49,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Water_vs_Earth_Metal": {
+    "title": "Earth Meets Earth",
+    "score": 82,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Water_vs_Earth_Water": {
+    "title": "Earth Meets Earth",
+    "score": 70,
+    "desc": "Your Earth energy meets another Earth. Like two mountains standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your stable vibe."
+  },
+  "Earth_Water_vs_Metal_Wood": {
+    "title": "Earth Meets Metal",
+    "score": 60,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Water_vs_Metal_Fire": {
+    "title": "Earth Meets Metal",
+    "score": 70,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Water_vs_Metal_Earth": {
+    "title": "Earth Meets Metal",
+    "score": 45,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Water_vs_Metal_Metal": {
+    "title": "Earth Meets Metal",
+    "score": 75,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Water_vs_Metal_Water": {
+    "title": "Earth Meets Metal",
+    "score": 67,
+    "desc": "Your Earth creates Metal. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your stable ideas, but don't burn out."
+  },
+  "Earth_Water_vs_Water_Wood": {
+    "title": "Earth Meets Water",
+    "score": 70,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Water_vs_Water_Fire": {
+    "title": "Earth Meets Water",
+    "score": 79,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Water_vs_Water_Earth": {
+    "title": "Earth Meets Water",
+    "score": 54,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Water_vs_Water_Metal": {
+    "title": "Earth Meets Water",
+    "score": 84,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Earth_Water_vs_Water_Water": {
+    "title": "Earth Meets Water",
+    "score": 76,
+    "desc": "Your Earth controls Water. You have the upper hand today. It's like a mountain conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Wood_vs_Wood_Wood": {
+    "title": "Metal Meets Wood",
+    "score": 74,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Wood_vs_Wood_Fire": {
+    "title": "Metal Meets Wood",
+    "score": 70,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Wood_vs_Wood_Earth": {
+    "title": "Metal Meets Wood",
+    "score": 79,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Wood_vs_Wood_Metal": {
+    "title": "Metal Meets Wood",
+    "score": 56,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Wood_vs_Wood_Water": {
+    "title": "Metal Meets Wood",
+    "score": 86,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Wood_vs_Fire_Wood": {
+    "title": "Metal Meets Fire",
+    "score": 51,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Wood_vs_Fire_Fire": {
+    "title": "Metal Meets Fire",
+    "score": 44,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Wood_vs_Fire_Earth": {
+    "title": "Metal Meets Fire",
+    "score": 56,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Wood_vs_Fire_Metal": {
+    "title": "Metal Meets Fire",
+    "score": 40,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Wood_vs_Fire_Water": {
+    "title": "Metal Meets Fire",
+    "score": 61,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Wood_vs_Earth_Wood": {
+    "title": "Metal Meets Earth",
+    "score": 78,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Wood_vs_Earth_Fire": {
+    "title": "Metal Meets Earth",
+    "score": 74,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Wood_vs_Earth_Earth": {
+    "title": "Metal Meets Earth",
+    "score": 84,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Wood_vs_Earth_Metal": {
+    "title": "Metal Meets Earth",
+    "score": 62,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Wood_vs_Earth_Water": {
+    "title": "Metal Meets Earth",
+    "score": 92,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Wood_vs_Metal_Wood": {
+    "title": "Metal Meets Metal",
+    "score": 69,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Wood_vs_Metal_Fire": {
+    "title": "Metal Meets Metal",
+    "score": 64,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Wood_vs_Metal_Earth": {
+    "title": "Metal Meets Metal",
+    "score": 75,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Wood_vs_Metal_Metal": {
+    "title": "Metal Meets Metal",
+    "score": 52,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Wood_vs_Metal_Water": {
+    "title": "Metal Meets Metal",
+    "score": 82,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Wood_vs_Water_Wood": {
+    "title": "Metal Meets Water",
+    "score": 67,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Wood_vs_Water_Fire": {
+    "title": "Metal Meets Water",
+    "score": 58,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Wood_vs_Water_Earth": {
+    "title": "Metal Meets Water",
+    "score": 71,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Wood_vs_Water_Metal": {
+    "title": "Metal Meets Water",
+    "score": 46,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Wood_vs_Water_Water": {
+    "title": "Metal Meets Water",
+    "score": 75,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Fire_vs_Wood_Wood": {
+    "title": "Metal Meets Wood",
+    "score": 87,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Fire_vs_Wood_Fire": {
+    "title": "Metal Meets Wood",
+    "score": 74,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Fire_vs_Wood_Earth": {
+    "title": "Metal Meets Wood",
+    "score": 69,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Fire_vs_Wood_Metal": {
+    "title": "Metal Meets Wood",
+    "score": 82,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Fire_vs_Wood_Water": {
+    "title": "Metal Meets Wood",
+    "score": 57,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Fire_vs_Fire_Wood": {
+    "title": "Metal Meets Fire",
+    "score": 61,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Fire_vs_Fire_Fire": {
+    "title": "Metal Meets Fire",
+    "score": 50,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Fire_vs_Fire_Earth": {
+    "title": "Metal Meets Fire",
+    "score": 43,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Fire_vs_Fire_Metal": {
+    "title": "Metal Meets Fire",
+    "score": 53,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Fire_vs_Fire_Water": {
+    "title": "Metal Meets Fire",
+    "score": 40,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Fire_vs_Earth_Wood": {
+    "title": "Metal Meets Earth",
+    "score": 92,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Fire_vs_Earth_Fire": {
+    "title": "Metal Meets Earth",
+    "score": 81,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Fire_vs_Earth_Earth": {
+    "title": "Metal Meets Earth",
+    "score": 73,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Fire_vs_Earth_Metal": {
+    "title": "Metal Meets Earth",
+    "score": 84,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Fire_vs_Earth_Water": {
+    "title": "Metal Meets Earth",
+    "score": 60,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Fire_vs_Metal_Wood": {
+    "title": "Metal Meets Metal",
+    "score": 82,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Fire_vs_Metal_Fire": {
+    "title": "Metal Meets Metal",
+    "score": 71,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Fire_vs_Metal_Earth": {
+    "title": "Metal Meets Metal",
+    "score": 64,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Fire_vs_Metal_Metal": {
+    "title": "Metal Meets Metal",
+    "score": 74,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Fire_vs_Metal_Water": {
+    "title": "Metal Meets Metal",
+    "score": 50,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Fire_vs_Water_Wood": {
+    "title": "Metal Meets Water",
+    "score": 75,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Fire_vs_Water_Fire": {
+    "title": "Metal Meets Water",
+    "score": 67,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Fire_vs_Water_Earth": {
+    "title": "Metal Meets Water",
+    "score": 61,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Fire_vs_Water_Metal": {
+    "title": "Metal Meets Water",
+    "score": 69,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Fire_vs_Water_Water": {
+    "title": "Metal Meets Water",
+    "score": 46,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Earth_vs_Wood_Wood": {
+    "title": "Metal Meets Wood",
+    "score": 54,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Earth_vs_Wood_Fire": {
+    "title": "Metal Meets Wood",
+    "score": 85,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Earth_vs_Wood_Earth": {
+    "title": "Metal Meets Wood",
+    "score": 76,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Earth_vs_Wood_Metal": {
+    "title": "Metal Meets Wood",
+    "score": 70,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Earth_vs_Wood_Water": {
+    "title": "Metal Meets Wood",
+    "score": 82,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Earth_vs_Fire_Wood": {
+    "title": "Metal Meets Fire",
+    "score": 40,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Earth_vs_Fire_Fire": {
+    "title": "Metal Meets Fire",
+    "score": 58,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Earth_vs_Fire_Earth": {
+    "title": "Metal Meets Fire",
+    "score": 49,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Earth_vs_Fire_Metal": {
+    "title": "Metal Meets Fire",
+    "score": 43,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Earth_vs_Fire_Water": {
+    "title": "Metal Meets Fire",
+    "score": 54,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Earth_vs_Earth_Wood": {
+    "title": "Metal Meets Earth",
+    "score": 58,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Earth_vs_Earth_Fire": {
+    "title": "Metal Meets Earth",
+    "score": 88,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Earth_vs_Earth_Earth": {
+    "title": "Metal Meets Earth",
+    "score": 79,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Earth_vs_Earth_Metal": {
+    "title": "Metal Meets Earth",
+    "score": 75,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Earth_vs_Earth_Water": {
+    "title": "Metal Meets Earth",
+    "score": 87,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Earth_vs_Metal_Wood": {
+    "title": "Metal Meets Metal",
+    "score": 48,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Earth_vs_Metal_Fire": {
+    "title": "Metal Meets Metal",
+    "score": 78,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Earth_vs_Metal_Earth": {
+    "title": "Metal Meets Metal",
+    "score": 68,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Earth_vs_Metal_Metal": {
+    "title": "Metal Meets Metal",
+    "score": 64,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Earth_vs_Metal_Water": {
+    "title": "Metal Meets Metal",
+    "score": 74,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Earth_vs_Water_Wood": {
+    "title": "Metal Meets Water",
+    "score": 45,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Earth_vs_Water_Fire": {
+    "title": "Metal Meets Water",
+    "score": 76,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Earth_vs_Water_Earth": {
+    "title": "Metal Meets Water",
+    "score": 65,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Earth_vs_Water_Metal": {
+    "title": "Metal Meets Water",
+    "score": 62,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Earth_vs_Water_Water": {
+    "title": "Metal Meets Water",
+    "score": 68,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Metal_vs_Wood_Wood": {
+    "title": "Metal Meets Wood",
+    "score": 78,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Metal_vs_Wood_Fire": {
+    "title": "Metal Meets Wood",
+    "score": 57,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Metal_vs_Wood_Earth": {
+    "title": "Metal Meets Wood",
+    "score": 84,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Metal_vs_Wood_Metal": {
+    "title": "Metal Meets Wood",
+    "score": 73,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Metal_vs_Wood_Water": {
+    "title": "Metal Meets Wood",
+    "score": 68,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Metal_vs_Fire_Wood": {
+    "title": "Metal Meets Fire",
+    "score": 56,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Metal_vs_Fire_Fire": {
+    "title": "Metal Meets Fire",
+    "score": 40,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Metal_vs_Fire_Earth": {
+    "title": "Metal Meets Fire",
+    "score": 60,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Metal_vs_Fire_Metal": {
+    "title": "Metal Meets Fire",
+    "score": 48,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Metal_vs_Fire_Water": {
+    "title": "Metal Meets Fire",
+    "score": 46,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Metal_vs_Earth_Wood": {
+    "title": "Metal Meets Earth",
+    "score": 85,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Metal_vs_Earth_Fire": {
+    "title": "Metal Meets Earth",
+    "score": 61,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Metal_vs_Earth_Earth": {
+    "title": "Metal Meets Earth",
+    "score": 92,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Metal_vs_Earth_Metal": {
+    "title": "Metal Meets Earth",
+    "score": 80,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Metal_vs_Earth_Water": {
+    "title": "Metal Meets Earth",
+    "score": 74,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Metal_vs_Metal_Wood": {
+    "title": "Metal Meets Metal",
+    "score": 76,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Metal_vs_Metal_Fire": {
+    "title": "Metal Meets Metal",
+    "score": 48,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Metal_vs_Metal_Earth": {
+    "title": "Metal Meets Metal",
+    "score": 82,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Metal_vs_Metal_Metal": {
+    "title": "Metal Meets Metal",
+    "score": 72,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Metal_vs_Metal_Water": {
+    "title": "Metal Meets Metal",
+    "score": 65,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Metal_vs_Water_Wood": {
+    "title": "Metal Meets Water",
+    "score": 72,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Metal_vs_Water_Fire": {
+    "title": "Metal Meets Water",
+    "score": 44,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Metal_vs_Water_Earth": {
+    "title": "Metal Meets Water",
+    "score": 77,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Metal_vs_Water_Metal": {
+    "title": "Metal Meets Water",
+    "score": 64,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Metal_vs_Water_Water": {
+    "title": "Metal Meets Water",
+    "score": 59,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Water_vs_Wood_Wood": {
+    "title": "Metal Meets Wood",
+    "score": 71,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Water_vs_Wood_Fire": {
+    "title": "Metal Meets Wood",
+    "score": 78,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Water_vs_Wood_Earth": {
+    "title": "Metal Meets Wood",
+    "score": 56,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Water_vs_Wood_Metal": {
+    "title": "Metal Meets Wood",
+    "score": 84,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Water_vs_Wood_Water": {
+    "title": "Metal Meets Wood",
+    "score": 74,
+    "desc": "Your Metal controls Wood. You have the upper hand today. It's like a sword conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Metal_Water_vs_Fire_Wood": {
+    "title": "Metal Meets Fire",
+    "score": 44,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Water_vs_Fire_Fire": {
+    "title": "Metal Meets Fire",
+    "score": 57,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Water_vs_Fire_Earth": {
+    "title": "Metal Meets Fire",
+    "score": 40,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Water_vs_Fire_Metal": {
+    "title": "Metal Meets Fire",
+    "score": 62,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Water_vs_Fire_Water": {
+    "title": "Metal Meets Fire",
+    "score": 48,
+    "desc": "The Fire energy puts pressure on your Metal. It feels like a flame blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Metal_Water_vs_Earth_Wood": {
+    "title": "Metal Meets Earth",
+    "score": 73,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Water_vs_Earth_Fire": {
+    "title": "Metal Meets Earth",
+    "score": 83,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Water_vs_Earth_Earth": {
+    "title": "Metal Meets Earth",
+    "score": 58,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Water_vs_Earth_Metal": {
+    "title": "Metal Meets Earth",
+    "score": 89,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Water_vs_Earth_Water": {
+    "title": "Metal Meets Earth",
+    "score": 81,
+    "desc": "The Earth feeds your Metal. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Metal_Water_vs_Metal_Wood": {
+    "title": "Metal Meets Metal",
+    "score": 65,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Water_vs_Metal_Fire": {
+    "title": "Metal Meets Metal",
+    "score": 76,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Water_vs_Metal_Earth": {
+    "title": "Metal Meets Metal",
+    "score": 50,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Water_vs_Metal_Metal": {
+    "title": "Metal Meets Metal",
+    "score": 79,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Water_vs_Metal_Water": {
+    "title": "Metal Meets Metal",
+    "score": 71,
+    "desc": "Your Metal energy meets another Metal. Like two swords standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your decisive vibe."
+  },
+  "Metal_Water_vs_Water_Wood": {
+    "title": "Metal Meets Water",
+    "score": 60,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Water_vs_Water_Fire": {
+    "title": "Metal Meets Water",
+    "score": 72,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Water_vs_Water_Earth": {
+    "title": "Metal Meets Water",
+    "score": 47,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Water_vs_Water_Metal": {
+    "title": "Metal Meets Water",
+    "score": 73,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Metal_Water_vs_Water_Water": {
+    "title": "Metal Meets Water",
+    "score": 66,
+    "desc": "Your Metal creates Water. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your decisive ideas, but don't burn out."
+  },
+  "Water_Wood_vs_Wood_Wood": {
+    "title": "Water Meets Wood",
+    "score": 66,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Wood_vs_Wood_Fire": {
+    "title": "Water Meets Wood",
+    "score": 59,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Wood_vs_Wood_Earth": {
+    "title": "Water Meets Wood",
+    "score": 71,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Wood_vs_Wood_Metal": {
+    "title": "Water Meets Wood",
+    "score": 43,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Wood_vs_Wood_Water": {
+    "title": "Water Meets Wood",
+    "score": 77,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Wood_vs_Fire_Wood": {
+    "title": "Water Meets Fire",
+    "score": 76,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Wood_vs_Fire_Fire": {
+    "title": "Water Meets Fire",
+    "score": 68,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Wood_vs_Fire_Earth": {
+    "title": "Water Meets Fire",
+    "score": 78,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Wood_vs_Fire_Metal": {
+    "title": "Water Meets Fire",
+    "score": 54,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Wood_vs_Fire_Water": {
+    "title": "Water Meets Fire",
+    "score": 84,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Wood_vs_Earth_Wood": {
+    "title": "Water Meets Earth",
+    "score": 50,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Wood_vs_Earth_Fire": {
+    "title": "Water Meets Earth",
+    "score": 47,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Wood_vs_Earth_Earth": {
+    "title": "Water Meets Earth",
+    "score": 57,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Wood_vs_Earth_Metal": {
+    "title": "Water Meets Earth",
+    "score": 40,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Wood_vs_Earth_Water": {
+    "title": "Water Meets Earth",
+    "score": 59,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Wood_vs_Metal_Wood": {
+    "title": "Water Meets Metal",
+    "score": 79,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Wood_vs_Metal_Fire": {
+    "title": "Water Meets Metal",
+    "score": 77,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Wood_vs_Metal_Earth": {
+    "title": "Water Meets Metal",
+    "score": 86,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Wood_vs_Metal_Metal": {
+    "title": "Water Meets Metal",
+    "score": 61,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Wood_vs_Metal_Water": {
+    "title": "Water Meets Metal",
+    "score": 90,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Wood_vs_Water_Wood": {
+    "title": "Water Meets Water",
+    "score": 72,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Wood_vs_Water_Fire": {
+    "title": "Water Meets Water",
+    "score": 65,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Wood_vs_Water_Earth": {
+    "title": "Water Meets Water",
+    "score": 73,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Wood_vs_Water_Metal": {
+    "title": "Water Meets Water",
+    "score": 48,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Wood_vs_Water_Water": {
+    "title": "Water Meets Water",
+    "score": 82,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Fire_vs_Wood_Wood": {
+    "title": "Water Meets Wood",
+    "score": 77,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Fire_vs_Wood_Fire": {
+    "title": "Water Meets Wood",
+    "score": 65,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Fire_vs_Wood_Earth": {
+    "title": "Water Meets Wood",
+    "score": 60,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Fire_vs_Wood_Metal": {
+    "title": "Water Meets Wood",
+    "score": 69,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Fire_vs_Wood_Water": {
+    "title": "Water Meets Wood",
+    "score": 43,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Fire_vs_Fire_Wood": {
+    "title": "Water Meets Fire",
+    "score": 84,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Fire_vs_Fire_Fire": {
+    "title": "Water Meets Fire",
+    "score": 74,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Fire_vs_Fire_Earth": {
+    "title": "Water Meets Fire",
+    "score": 69,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Fire_vs_Fire_Metal": {
+    "title": "Water Meets Fire",
+    "score": 79,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Fire_vs_Fire_Water": {
+    "title": "Water Meets Fire",
+    "score": 57,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Fire_vs_Earth_Wood": {
+    "title": "Water Meets Earth",
+    "score": 61,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Fire_vs_Earth_Fire": {
+    "title": "Water Meets Earth",
+    "score": 50,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Fire_vs_Earth_Earth": {
+    "title": "Water Meets Earth",
+    "score": 46,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Fire_vs_Earth_Metal": {
+    "title": "Water Meets Earth",
+    "score": 54,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Fire_vs_Earth_Water": {
+    "title": "Water Meets Earth",
+    "score": 40,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Fire_vs_Metal_Wood": {
+    "title": "Water Meets Metal",
+    "score": 90,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Fire_vs_Metal_Fire": {
+    "title": "Water Meets Metal",
+    "score": 82,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Fire_vs_Metal_Earth": {
+    "title": "Water Meets Metal",
+    "score": 77,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Fire_vs_Metal_Metal": {
+    "title": "Water Meets Metal",
+    "score": 87,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Fire_vs_Metal_Water": {
+    "title": "Water Meets Metal",
+    "score": 61,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Fire_vs_Water_Wood": {
+    "title": "Water Meets Water",
+    "score": 79,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Fire_vs_Water_Fire": {
+    "title": "Water Meets Water",
+    "score": 69,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Fire_vs_Water_Earth": {
+    "title": "Water Meets Water",
+    "score": 63,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Fire_vs_Water_Metal": {
+    "title": "Water Meets Water",
+    "score": 73,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Fire_vs_Water_Water": {
+    "title": "Water Meets Water",
+    "score": 50,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Earth_vs_Wood_Wood": {
+    "title": "Water Meets Wood",
+    "score": 44,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Earth_vs_Wood_Fire": {
+    "title": "Water Meets Wood",
+    "score": 77,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Earth_vs_Wood_Earth": {
+    "title": "Water Meets Wood",
+    "score": 64,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Earth_vs_Wood_Metal": {
+    "title": "Water Meets Wood",
+    "score": 61,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Earth_vs_Wood_Water": {
+    "title": "Water Meets Wood",
+    "score": 70,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Earth_vs_Fire_Wood": {
+    "title": "Water Meets Fire",
+    "score": 56,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Earth_vs_Fire_Fire": {
+    "title": "Water Meets Fire",
+    "score": 85,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Earth_vs_Fire_Earth": {
+    "title": "Water Meets Fire",
+    "score": 75,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Earth_vs_Fire_Metal": {
+    "title": "Water Meets Fire",
+    "score": 71,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Earth_vs_Fire_Water": {
+    "title": "Water Meets Fire",
+    "score": 82,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Earth_vs_Earth_Wood": {
+    "title": "Water Meets Earth",
+    "score": 40,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Earth_vs_Earth_Fire": {
+    "title": "Water Meets Earth",
+    "score": 59,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Earth_vs_Earth_Earth": {
+    "title": "Water Meets Earth",
+    "score": 49,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Earth_vs_Earth_Metal": {
+    "title": "Water Meets Earth",
+    "score": 45,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Earth_vs_Earth_Water": {
+    "title": "Water Meets Earth",
+    "score": 57,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Earth_vs_Metal_Wood": {
+    "title": "Water Meets Metal",
+    "score": 59,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Earth_vs_Metal_Fire": {
+    "title": "Water Meets Metal",
+    "score": 90,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Earth_vs_Metal_Earth": {
+    "title": "Water Meets Metal",
+    "score": 78,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Earth_vs_Metal_Metal": {
+    "title": "Water Meets Metal",
+    "score": 75,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Earth_vs_Metal_Water": {
+    "title": "Water Meets Metal",
+    "score": 87,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Earth_vs_Water_Wood": {
+    "title": "Water Meets Water",
+    "score": 51,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Earth_vs_Water_Fire": {
+    "title": "Water Meets Water",
+    "score": 79,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Earth_vs_Water_Earth": {
+    "title": "Water Meets Water",
+    "score": 71,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Earth_vs_Water_Metal": {
+    "title": "Water Meets Water",
+    "score": 65,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Earth_vs_Water_Water": {
+    "title": "Water Meets Water",
+    "score": 75,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Metal_vs_Wood_Wood": {
+    "title": "Water Meets Wood",
+    "score": 71,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Metal_vs_Wood_Fire": {
+    "title": "Water Meets Wood",
+    "score": 43,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Metal_vs_Wood_Earth": {
+    "title": "Water Meets Wood",
+    "score": 77,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Metal_vs_Wood_Metal": {
+    "title": "Water Meets Wood",
+    "score": 67,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Metal_vs_Wood_Water": {
+    "title": "Water Meets Wood",
+    "score": 61,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Metal_vs_Fire_Wood": {
+    "title": "Water Meets Fire",
+    "score": 80,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Metal_vs_Fire_Fire": {
+    "title": "Water Meets Fire",
+    "score": 55,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Metal_vs_Fire_Earth": {
+    "title": "Water Meets Fire",
+    "score": 85,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Metal_vs_Fire_Metal": {
+    "title": "Water Meets Fire",
+    "score": 74,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Metal_vs_Fire_Water": {
+    "title": "Water Meets Fire",
+    "score": 71,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Metal_vs_Earth_Wood": {
+    "title": "Water Meets Earth",
+    "score": 54,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Metal_vs_Earth_Fire": {
+    "title": "Water Meets Earth",
+    "score": 40,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Metal_vs_Earth_Earth": {
+    "title": "Water Meets Earth",
+    "score": 58,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Metal_vs_Earth_Metal": {
+    "title": "Water Meets Earth",
+    "score": 49,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Metal_vs_Earth_Water": {
+    "title": "Water Meets Earth",
+    "score": 45,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Metal_vs_Metal_Wood": {
+    "title": "Water Meets Metal",
+    "score": 83,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Metal_vs_Metal_Fire": {
+    "title": "Water Meets Metal",
+    "score": 58,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Metal_vs_Metal_Earth": {
+    "title": "Water Meets Metal",
+    "score": 88,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Metal_vs_Metal_Metal": {
+    "title": "Water Meets Metal",
+    "score": 79,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Metal_vs_Metal_Water": {
+    "title": "Water Meets Metal",
+    "score": 74,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Metal_vs_Water_Wood": {
+    "title": "Water Meets Water",
+    "score": 73,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Metal_vs_Water_Fire": {
+    "title": "Water Meets Water",
+    "score": 49,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Metal_vs_Water_Earth": {
+    "title": "Water Meets Water",
+    "score": 79,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Metal_vs_Water_Metal": {
+    "title": "Water Meets Water",
+    "score": 68,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Metal_vs_Water_Water": {
+    "title": "Water Meets Water",
+    "score": 64,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Water_vs_Wood_Wood": {
+    "title": "Water Meets Wood",
+    "score": 61,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Water_vs_Wood_Fire": {
+    "title": "Water Meets Wood",
+    "score": 68,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Water_vs_Wood_Earth": {
+    "title": "Water Meets Wood",
+    "score": 45,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Water_vs_Wood_Metal": {
+    "title": "Water Meets Wood",
+    "score": 73,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Water_vs_Wood_Water": {
+    "title": "Water Meets Wood",
+    "score": 63,
+    "desc": "Your Water creates Wood. Just as wood burns to make fire or metal melts to become water, you are pouring your energy out.",
+    "advice": "Express your wise ideas, but don't burn out."
+  },
+  "Water_Water_vs_Fire_Wood": {
+    "title": "Water Meets Fire",
+    "score": 72,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Water_vs_Fire_Fire": {
+    "title": "Water Meets Fire",
+    "score": 78,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Water_vs_Fire_Earth": {
+    "title": "Water Meets Fire",
+    "score": 54,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Water_vs_Fire_Metal": {
+    "title": "Water Meets Fire",
+    "score": 86,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Water_vs_Fire_Water": {
+    "title": "Water Meets Fire",
+    "score": 77,
+    "desc": "Your Water controls Fire. You have the upper hand today. It's like a ocean conquering the landscape.",
+    "advice": "Focus on tangible results and goals."
+  },
+  "Water_Water_vs_Earth_Wood": {
+    "title": "Water Meets Earth",
+    "score": 43,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Water_vs_Earth_Fire": {
+    "title": "Water Meets Earth",
+    "score": 53,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Water_vs_Earth_Earth": {
+    "title": "Water Meets Earth",
+    "score": 40,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Water_vs_Earth_Metal": {
+    "title": "Water Meets Earth",
+    "score": 62,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Water_vs_Earth_Water": {
+    "title": "Water Meets Earth",
+    "score": 49,
+    "desc": "The Earth energy puts pressure on your Water. It feels like a mountain blocking or cutting your path.",
+    "advice": "Endure the stress; it will refine you."
+  },
+  "Water_Water_vs_Metal_Wood": {
+    "title": "Water Meets Metal",
+    "score": 75,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Water_vs_Metal_Fire": {
+    "title": "Water Meets Metal",
+    "score": 87,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Water_vs_Metal_Earth": {
+    "title": "Water Meets Metal",
+    "score": 59,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Water_vs_Metal_Metal": {
+    "title": "Water Meets Metal",
+    "score": 91,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Water_vs_Metal_Water": {
+    "title": "Water Meets Metal",
+    "score": 82,
+    "desc": "The Metal feeds your Water. Like rain nourishing a tree or earth producing metal, you are being recharged.",
+    "advice": "Relax and accept the help coming your way."
+  },
+  "Water_Water_vs_Water_Wood": {
+    "title": "Water Meets Water",
+    "score": 64,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Water_vs_Water_Fire": {
+    "title": "Water Meets Water",
+    "score": 75,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Water_vs_Water_Earth": {
+    "title": "Water Meets Water",
+    "score": 51,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Water_vs_Water_Metal": {
+    "title": "Water Meets Water",
+    "score": 81,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  },
+  "Water_Water_vs_Water_Water": {
+    "title": "Water Meets Water",
+    "score": 71,
+    "desc": "Your Water energy meets another Water. Like two oceans standing together, you feel understood but might compete for space.",
+    "advice": "Collaborate with peers who share your wise vibe."
+  }
+}

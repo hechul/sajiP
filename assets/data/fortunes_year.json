@@ -1,0 +1,3752 @@
+{
+  "Wood_Wood_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 70,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Wood_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 65,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Wood_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 74,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Wood_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 49,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Wood_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 78,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Wood_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 66,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 59,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 71,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 43,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 75,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 74,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Wood_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 68,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Wood_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 80,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Wood_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 57,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Wood_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 86,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Wood_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 50,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 43,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 56,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 40,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 59,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 80,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 73,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 83,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 58,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Wood_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 89,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 78,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Fire_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 68,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Fire_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 66,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Fire_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 76,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Fire_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 49,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Fire_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 74,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 66,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 60,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 72,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 46,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 87,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Fire_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 77,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Fire_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 71,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Fire_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 82,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Fire_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 53,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Fire_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 60,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 48,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 46,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 56,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 40,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 92,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 78,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 73,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 85,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Fire_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 59,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 52,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Earth_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 79,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Earth_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 69,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Earth_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 64,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Earth_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 76,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Earth_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 47,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 76,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 67,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 58,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 72,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 56,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Earth_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 84,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Earth_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 77,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Earth_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 69,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Earth_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 82,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Earth_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 40,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 61,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 51,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 47,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 53,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 62,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 90,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 82,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 74,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Earth_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 85,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 73,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Metal_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 49,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Metal_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 80,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Metal_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 68,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Metal_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 64,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Metal_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 69,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 47,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 75,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 64,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 61,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 79,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Metal_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 57,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Metal_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 85,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Metal_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 74,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Metal_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 70,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Metal_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 53,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 40,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 61,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 49,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 45,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 83,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 61,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 88,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 80,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Metal_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 74,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 66,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Water_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 73,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Water_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 50,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Water_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 78,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Water_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 71,
+    "desc": "A year of 'The tree'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Wood_Water_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 59,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 71,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 43,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 77,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 65,
+    "desc": "The year brings Fire energy to your Wood. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 71,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Water_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 80,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Water_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 54,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Water_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 85,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Water_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 75,
+    "desc": "A year of harvest. Your efforts to control Earth will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Wood_Water_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 44,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 56,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 40,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 62,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 52,
+    "desc": "The year brings Metal energy to your Wood. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 75,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 86,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 60,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 90,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Wood_Water_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 78,
+    "desc": "The year brings Water energy to your Wood. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 78,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 76,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 84,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 61,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 90,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 68,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Wood_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 63,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Wood_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 75,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Wood_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 51,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Wood_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 78,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Wood_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 67,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 62,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 69,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 47,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 76,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 73,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Wood_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 69,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Wood_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 78,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Wood_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 53,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Wood_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 84,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Wood_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 52,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 45,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 56,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 40,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Wood_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 60,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 89,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 78,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 75,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 84,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 59,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 78,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Fire_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 69,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Fire_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 64,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Fire_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 77,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Fire_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 49,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Fire_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 74,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 64,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 58,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 69,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 46,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 86,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Fire_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 74,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Fire_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 69,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Fire_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 79,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Fire_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 57,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Fire_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 59,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 51,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 44,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 56,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Fire_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 40,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 58,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 90,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 79,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 75,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 85,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 51,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Earth_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 82,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Earth_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 68,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Earth_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 64,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Earth_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 73,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Earth_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 46,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 77,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 66,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 59,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 72,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 55,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Earth_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 83,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Earth_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 74,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Earth_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 71,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Earth_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 82,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Earth_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 40,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 61,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 52,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 44,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Earth_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 55,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 86,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 61,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 90,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 78,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 75,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 74,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Metal_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 50,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Metal_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 82,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Metal_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 70,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Metal_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 63,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Metal_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 68,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 45,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 74,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 67,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 60,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 80,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Metal_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 54,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Metal_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 87,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Metal_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 74,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Metal_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 68,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Metal_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 53,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 40,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 62,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 48,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Metal_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 43,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 74,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 87,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 58,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 90,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 78,
+    "desc": "The year brings Wood energy to your Fire. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 67,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Water_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 74,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Water_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 52,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Water_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 78,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Water_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 70,
+    "desc": "A year of 'The flame'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Fire_Water_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 62,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 70,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 46,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 76,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 65,
+    "desc": "The year brings Earth energy to your Fire. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 70,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Water_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 80,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Water_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 53,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Water_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 83,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Water_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 74,
+    "desc": "A year of harvest. Your efforts to control Metal will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Fire_Water_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 46,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 54,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 40,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 62,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Fire_Water_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 52,
+    "desc": "The year brings Water energy to your Fire. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 49,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 45,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 55,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 40,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 58,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 79,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 73,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 86,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 60,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 88,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 69,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Wood_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 67,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Wood_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 74,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Wood_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 48,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Wood_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 78,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Wood_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 65,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 62,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 69,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 45,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 73,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Wood_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 76,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Wood_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 71,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Wood_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 78,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Wood_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 55,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Wood_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 84,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Fire_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 61,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 51,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 43,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 54,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 40,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 90,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 79,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 77,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 87,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 59,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 81,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Fire_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 71,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Fire_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 66,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Fire_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 73,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Fire_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 49,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Fire_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 73,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 66,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 59,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 70,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 44,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Fire_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 83,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Fire_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 76,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Fire_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 68,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Fire_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 82,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Fire_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 55,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Earth_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 40,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 61,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 50,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 45,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 54,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 62,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 92,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 79,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 74,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 84,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 48,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Earth_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 82,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Earth_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 71,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Earth_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 64,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Earth_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 77,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Earth_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 47,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 75,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 66,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 62,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 71,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Earth_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 55,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Earth_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 86,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Earth_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 74,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Earth_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 69,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Earth_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 79,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Metal_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 56,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 40,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 62,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 51,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 45,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 86,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 61,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 92,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 78,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 74,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 77,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Metal_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 51,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Metal_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 80,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Metal_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 68,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Metal_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 63,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Metal_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 69,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 45,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 74,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 66,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 62,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Metal_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 82,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Metal_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 53,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Metal_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 83,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Metal_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 75,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Metal_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 68,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Water_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 43,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 54,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 40,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 62,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 48,
+    "desc": "The year brings Wood energy to your Earth. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 76,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 83,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 60,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 91,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 79,
+    "desc": "The year brings Fire energy to your Earth. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 65,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Water_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 76,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Water_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 49,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Water_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 82,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Water_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 70,
+    "desc": "A year of 'The mountain'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Earth_Water_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 60,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 70,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 45,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 75,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 67,
+    "desc": "The year brings Metal energy to your Earth. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Earth_Water_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 70,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Water_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 79,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Water_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 54,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Water_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 84,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Earth_Water_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 76,
+    "desc": "A year of harvest. Your efforts to control Water will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Wood_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 74,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Wood_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 70,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Wood_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 79,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Wood_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 56,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Wood_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 86,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Wood_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 51,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 44,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 56,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 40,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 61,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 78,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 74,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 84,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 62,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 92,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 69,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Wood_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 64,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Wood_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 75,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Wood_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 52,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Wood_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 82,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Wood_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 67,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 58,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 71,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 46,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Wood_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 75,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 87,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Fire_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 74,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Fire_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 69,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Fire_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 82,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Fire_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 57,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Fire_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 61,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 50,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 43,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 53,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 40,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 92,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 81,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 73,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 84,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 60,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 82,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Fire_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 71,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Fire_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 64,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Fire_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 74,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Fire_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 50,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Fire_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 75,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 67,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 61,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 69,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Fire_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 46,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 54,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Earth_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 85,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Earth_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 76,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Earth_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 70,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Earth_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 82,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Earth_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 40,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 58,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 49,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 43,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 54,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 58,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 88,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 79,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 75,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 87,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 48,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Earth_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 78,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Earth_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 68,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Earth_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 64,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Earth_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 74,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Earth_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 45,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 76,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 65,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 62,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Earth_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 68,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 78,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Metal_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 57,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Metal_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 84,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Metal_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 73,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Metal_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 68,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Metal_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 56,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 40,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 60,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 48,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 46,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 85,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 61,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 92,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 80,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 74,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 76,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Metal_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 48,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Metal_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 82,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Metal_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 72,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Metal_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 65,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Metal_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 72,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 44,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 77,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 64,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Metal_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 59,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 71,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Water_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 78,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Water_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 56,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Water_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 84,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Water_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 74,
+    "desc": "A year of harvest. Your efforts to control Wood will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Metal_Water_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 44,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 57,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 40,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 62,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 48,
+    "desc": "The year brings Fire energy to your Metal. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 73,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 83,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 58,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 89,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 81,
+    "desc": "The year brings Earth energy to your Metal. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 65,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Water_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 76,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Water_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 50,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Water_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 79,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Water_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 71,
+    "desc": "A year of 'The sword'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Metal_Water_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 60,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 72,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 47,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 73,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Metal_Water_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 66,
+    "desc": "The year brings Water energy to your Metal. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 66,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 59,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 71,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 43,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 77,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 76,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Wood_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 68,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Wood_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 78,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Wood_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 54,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Wood_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 84,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Wood_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 50,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 47,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 57,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 40,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 59,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 79,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 77,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 86,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 61,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 90,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Wood_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 72,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Wood_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 65,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Wood_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 73,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Wood_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 48,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Wood_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 82,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Fire_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 77,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 65,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 60,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 69,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 43,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 84,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Fire_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 74,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Fire_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 69,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Fire_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 79,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Fire_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 57,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Fire_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 61,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 50,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 46,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 54,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 40,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 90,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 82,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 77,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 87,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 61,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Fire_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 79,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Fire_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 69,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Fire_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 63,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Fire_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 73,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Fire_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 50,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Earth_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 44,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 77,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 64,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 61,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 70,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 56,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Earth_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 85,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Earth_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 75,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Earth_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 71,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Earth_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 82,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Earth_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 40,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 59,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 49,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 45,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 57,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 59,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 90,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 78,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 75,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 87,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Earth_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 51,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Earth_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 79,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Earth_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 71,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Earth_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 65,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Earth_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 75,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Metal_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 71,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 43,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 77,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 67,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 61,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 80,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Metal_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 55,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Metal_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 85,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Metal_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 74,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Metal_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 71,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Metal_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 54,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 40,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 58,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 49,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 45,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 83,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 58,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 88,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 79,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 74,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Metal_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 73,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Metal_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 49,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Metal_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 79,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Metal_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 68,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Metal_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 64,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Water_vs_Wood_Wood": {
+    "title": "Wood Year",
+    "score": 61,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Wood_Fire": {
+    "title": "Wood Year",
+    "score": 68,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Wood_Earth": {
+    "title": "Wood Year",
+    "score": 45,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Wood_Metal": {
+    "title": "Wood Year",
+    "score": 73,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Wood_Water": {
+    "title": "Wood Year",
+    "score": 63,
+    "desc": "The year brings Wood energy to your Water. It defines the background of your life as 'Expression'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Fire_Wood": {
+    "title": "Fire Year",
+    "score": 72,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Water_vs_Fire_Fire": {
+    "title": "Fire Year",
+    "score": 78,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Water_vs_Fire_Earth": {
+    "title": "Fire Year",
+    "score": 54,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Water_vs_Fire_Metal": {
+    "title": "Fire Year",
+    "score": 86,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Water_vs_Fire_Water": {
+    "title": "Fire Year",
+    "score": 77,
+    "desc": "A year of harvest. Your efforts to control Fire will pay off. Think of it as conquering new territory.",
+    "advice": "Be ambitious with your long-term goals."
+  },
+  "Water_Water_vs_Earth_Wood": {
+    "title": "Earth Year",
+    "score": 43,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Earth_Fire": {
+    "title": "Earth Year",
+    "score": 53,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Earth_Earth": {
+    "title": "Earth Year",
+    "score": 40,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Earth_Metal": {
+    "title": "Earth Year",
+    "score": 62,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Earth_Water": {
+    "title": "Earth Year",
+    "score": 49,
+    "desc": "The year brings Earth energy to your Water. It defines the background of your life as 'Discipline'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Metal_Wood": {
+    "title": "Metal Year",
+    "score": 75,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Metal_Fire": {
+    "title": "Metal Year",
+    "score": 87,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Metal_Earth": {
+    "title": "Metal Year",
+    "score": 59,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Metal_Metal": {
+    "title": "Metal Year",
+    "score": 91,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Metal_Water": {
+    "title": "Metal Year",
+    "score": 82,
+    "desc": "The year brings Metal energy to your Water. It defines the background of your life as 'Comfort'.",
+    "advice": "Plan according to the flow."
+  },
+  "Water_Water_vs_Water_Wood": {
+    "title": "Water Year",
+    "score": 64,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Water_vs_Water_Fire": {
+    "title": "Water Year",
+    "score": 75,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Water_vs_Water_Earth": {
+    "title": "Water Year",
+    "score": 51,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Water_vs_Water_Metal": {
+    "title": "Water Year",
+    "score": 81,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  },
+  "Water_Water_vs_Water_Water": {
+    "title": "Water Year",
+    "score": 71,
+    "desc": "A year of 'The ocean'. You will find many people like you. It's a year of networking and competition.",
+    "advice": "Build your team."
+  }
+}

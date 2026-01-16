@@ -1,0 +1,3752 @@
+{
+  "Wood_Wood_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 70,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Wood_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 65,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Wood_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 74,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Wood_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 49,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Wood_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 78,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Wood_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 66,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Wood_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 59,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Wood_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 71,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Wood_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 43,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Wood_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 75,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Wood_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 74,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Wood_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 68,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Wood_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 80,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Wood_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 57,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Wood_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 86,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Wood_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 50,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Wood_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 43,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Wood_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 56,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Wood_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 40,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Wood_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 59,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Wood_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 80,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Wood_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 73,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Wood_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 83,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Wood_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 58,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Wood_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 89,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Fire_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 78,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Fire_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 68,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Fire_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 66,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Fire_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 76,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Fire_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 49,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Fire_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 74,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Fire_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 66,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Fire_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 60,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Fire_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 72,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Fire_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 46,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Fire_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 87,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Fire_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 77,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Fire_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 71,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Fire_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 82,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Fire_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 53,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Fire_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 60,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Fire_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 48,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Fire_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 46,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Fire_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 56,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Fire_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 40,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Fire_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 92,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Fire_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 78,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Fire_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 73,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Fire_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 85,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Fire_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 59,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Earth_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 52,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Earth_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 79,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Earth_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 69,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Earth_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 64,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Earth_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 76,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Earth_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 47,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Earth_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 76,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Earth_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 67,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Earth_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 58,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Earth_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 72,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Earth_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 56,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Earth_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 84,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Earth_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 77,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Earth_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 69,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Earth_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 82,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Earth_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 40,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Earth_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 61,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Earth_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 51,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Earth_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 47,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Earth_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 53,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Earth_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 62,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Earth_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 90,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Earth_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 82,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Earth_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 74,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Earth_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 85,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Metal_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 73,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Metal_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 49,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Metal_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 80,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Metal_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 68,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Metal_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 64,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Metal_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 69,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Metal_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 47,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Metal_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 75,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Metal_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 64,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Metal_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 61,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Metal_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 79,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Metal_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 57,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Metal_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 85,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Metal_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 74,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Metal_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 70,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Metal_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 53,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Metal_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 40,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Metal_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 61,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Metal_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 49,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Metal_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 45,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Metal_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 83,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Metal_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 61,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Metal_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 88,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Metal_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 80,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Metal_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 74,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Water_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 66,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Water_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 73,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Water_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 50,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Water_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 78,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Water_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 71,
+    "desc": "A month of Companion. Your Wood energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Water_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 59,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Water_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 71,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Water_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 43,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Water_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 77,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Water_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 65,
+    "desc": "A month of Expression. Your Wood energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Wood_Water_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 71,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Water_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 80,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Water_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 54,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Water_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 85,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Water_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 75,
+    "desc": "A productive month where your Wood skills can manage the Earth resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Wood_Water_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 44,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Water_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 56,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Water_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 40,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Water_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 62,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Water_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 52,
+    "desc": "This month, the social environment (Metal) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Wood_Water_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 75,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Water_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 86,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Water_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 60,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Water_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 90,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Wood_Water_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 78,
+    "desc": "The environment favors you. Mentors representing Water energy will support your creative growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Wood_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 78,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Wood_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 76,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Wood_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 84,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Wood_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 61,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Wood_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 90,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Wood_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 68,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Wood_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 63,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Wood_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 75,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Wood_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 51,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Wood_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 78,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Wood_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 67,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Wood_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 62,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Wood_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 69,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Wood_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 47,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Wood_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 76,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Wood_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 73,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Wood_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 69,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Wood_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 78,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Wood_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 53,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Wood_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 84,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Wood_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 52,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Wood_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 45,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Wood_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 56,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Wood_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 40,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Wood_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 60,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Fire_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 89,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Fire_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 78,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Fire_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 75,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Fire_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 84,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Fire_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 59,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Fire_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 78,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Fire_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 69,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Fire_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 64,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Fire_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 77,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Fire_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 49,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Fire_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 74,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Fire_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 64,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Fire_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 58,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Fire_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 69,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Fire_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 46,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Fire_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 86,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Fire_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 74,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Fire_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 69,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Fire_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 79,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Fire_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 57,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Fire_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 59,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Fire_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 51,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Fire_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 44,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Fire_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 56,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Fire_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 40,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Earth_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 58,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Earth_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 90,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Earth_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 79,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Earth_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 75,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Earth_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 85,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Earth_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 51,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Earth_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 82,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Earth_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 68,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Earth_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 64,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Earth_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 73,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Earth_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 46,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Earth_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 77,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Earth_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 66,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Earth_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 59,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Earth_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 72,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Earth_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 55,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Earth_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 83,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Earth_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 74,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Earth_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 71,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Earth_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 82,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Earth_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 40,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Earth_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 61,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Earth_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 52,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Earth_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 44,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Earth_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 55,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Metal_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 86,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Metal_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 61,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Metal_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 90,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Metal_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 78,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Metal_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 75,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Metal_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 74,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Metal_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 50,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Metal_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 82,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Metal_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 70,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Metal_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 63,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Metal_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 68,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Metal_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 45,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Metal_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 74,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Metal_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 67,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Metal_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 60,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Metal_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 80,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Metal_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 54,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Metal_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 87,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Metal_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 74,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Metal_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 68,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Metal_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 53,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Metal_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 40,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Metal_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 62,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Metal_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 48,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Metal_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 43,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Water_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 74,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Water_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 87,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Water_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 58,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Water_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 90,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Water_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 78,
+    "desc": "The environment favors you. Mentors representing Wood energy will support your passionate growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Fire_Water_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 67,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Water_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 74,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Water_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 52,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Water_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 78,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Water_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 70,
+    "desc": "A month of Companion. Your Fire energy interacts with the month's Fire in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Water_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 62,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Water_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 70,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Water_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 46,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Water_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 76,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Water_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 65,
+    "desc": "A month of Expression. Your Fire energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Fire_Water_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 70,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Water_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 80,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Water_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 53,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Water_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 83,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Water_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 74,
+    "desc": "A productive month where your Fire skills can manage the Metal resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Fire_Water_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 46,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Water_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 54,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Water_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 40,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Water_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 62,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Fire_Water_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 52,
+    "desc": "This month, the social environment (Water) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Wood_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 49,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Wood_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 45,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Wood_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 55,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Wood_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 40,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Wood_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 58,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Wood_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 79,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Wood_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 73,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Wood_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 86,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Wood_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 60,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Wood_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 88,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Wood_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 69,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Wood_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 67,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Wood_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 74,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Wood_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 48,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Wood_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 78,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Wood_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 65,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Wood_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 62,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Wood_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 69,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Wood_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 45,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Wood_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 73,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Wood_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 76,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Wood_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 71,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Wood_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 78,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Wood_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 55,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Wood_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 84,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Fire_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 61,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Fire_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 51,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Fire_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 43,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Fire_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 54,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Fire_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 40,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Fire_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 90,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Fire_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 79,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Fire_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 77,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Fire_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 87,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Fire_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 59,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Fire_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 81,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Fire_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 71,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Fire_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 66,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Fire_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 73,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Fire_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 49,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Fire_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 73,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Fire_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 66,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Fire_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 59,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Fire_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 70,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Fire_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 44,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Fire_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 83,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Fire_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 76,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Fire_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 68,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Fire_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 82,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Fire_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 55,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Earth_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 40,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Earth_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 61,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Earth_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 50,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Earth_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 45,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Earth_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 54,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Earth_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 62,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Earth_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 92,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Earth_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 79,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Earth_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 74,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Earth_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 84,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Earth_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 48,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Earth_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 82,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Earth_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 71,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Earth_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 64,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Earth_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 77,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Earth_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 47,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Earth_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 75,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Earth_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 66,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Earth_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 62,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Earth_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 71,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Earth_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 55,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Earth_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 86,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Earth_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 74,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Earth_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 69,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Earth_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 79,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Metal_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 56,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Metal_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 40,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Metal_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 62,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Metal_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 51,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Metal_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 45,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Metal_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 86,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Metal_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 61,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Metal_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 92,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Metal_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 78,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Metal_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 74,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Metal_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 77,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Metal_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 51,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Metal_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 80,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Metal_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 68,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Metal_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 63,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Metal_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 69,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Metal_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 45,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Metal_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 74,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Metal_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 66,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Metal_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 62,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Metal_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 82,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Metal_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 53,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Metal_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 83,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Metal_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 75,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Metal_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 68,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Water_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 43,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Water_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 54,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Water_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 40,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Water_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 62,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Water_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 48,
+    "desc": "This month, the social environment (Wood) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Earth_Water_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 76,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Water_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 83,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Water_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 60,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Water_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 91,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Water_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 79,
+    "desc": "The environment favors you. Mentors representing Fire energy will support your stable growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Earth_Water_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 65,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Water_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 76,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Water_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 49,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Water_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 82,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Water_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 70,
+    "desc": "A month of Companion. Your Earth energy interacts with the month's Earth in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Water_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 60,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Water_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 70,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Water_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 45,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Water_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 75,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Water_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 67,
+    "desc": "A month of Expression. Your Earth energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Earth_Water_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 70,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Water_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 79,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Water_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 54,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Water_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 84,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Earth_Water_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 76,
+    "desc": "A productive month where your Earth skills can manage the Water resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Wood_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 74,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Wood_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 70,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Wood_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 79,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Wood_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 56,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Wood_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 86,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Wood_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 51,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Wood_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 44,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Wood_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 56,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Wood_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 40,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Wood_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 61,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Wood_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 78,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Wood_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 74,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Wood_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 84,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Wood_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 62,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Wood_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 92,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Wood_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 69,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Wood_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 64,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Wood_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 75,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Wood_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 52,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Wood_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 82,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Wood_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 67,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Wood_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 58,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Wood_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 71,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Wood_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 46,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Wood_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 75,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Fire_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 87,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Fire_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 74,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Fire_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 69,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Fire_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 82,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Fire_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 57,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Fire_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 61,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Fire_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 50,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Fire_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 43,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Fire_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 53,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Fire_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 40,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Fire_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 92,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Fire_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 81,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Fire_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 73,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Fire_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 84,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Fire_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 60,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Fire_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 82,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Fire_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 71,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Fire_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 64,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Fire_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 74,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Fire_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 50,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Fire_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 75,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Fire_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 67,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Fire_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 61,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Fire_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 69,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Fire_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 46,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Earth_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 54,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Earth_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 85,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Earth_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 76,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Earth_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 70,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Earth_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 82,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Earth_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 40,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Earth_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 58,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Earth_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 49,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Earth_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 43,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Earth_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 54,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Earth_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 58,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Earth_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 88,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Earth_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 79,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Earth_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 75,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Earth_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 87,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Earth_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 48,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Earth_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 78,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Earth_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 68,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Earth_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 64,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Earth_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 74,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Earth_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 45,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Earth_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 76,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Earth_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 65,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Earth_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 62,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Earth_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 68,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Metal_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 78,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Metal_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 57,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Metal_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 84,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Metal_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 73,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Metal_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 68,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Metal_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 56,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Metal_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 40,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Metal_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 60,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Metal_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 48,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Metal_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 46,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Metal_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 85,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Metal_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 61,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Metal_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 92,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Metal_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 80,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Metal_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 74,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Metal_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 76,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Metal_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 48,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Metal_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 82,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Metal_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 72,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Metal_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 65,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Metal_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 72,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Metal_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 44,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Metal_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 77,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Metal_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 64,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Metal_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 59,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Water_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 71,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Water_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 78,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Water_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 56,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Water_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 84,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Water_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 74,
+    "desc": "A productive month where your Metal skills can manage the Wood resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Metal_Water_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 44,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Water_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 57,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Water_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 40,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Water_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 62,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Water_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 48,
+    "desc": "This month, the social environment (Fire) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Metal_Water_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 73,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Water_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 83,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Water_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 58,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Water_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 89,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Water_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 81,
+    "desc": "The environment favors you. Mentors representing Earth energy will support your decisive growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Metal_Water_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 65,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Water_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 76,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Water_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 50,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Water_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 79,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Water_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 71,
+    "desc": "A month of Companion. Your Metal energy interacts with the month's Metal in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Water_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 60,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Water_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 72,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Water_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 47,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Water_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 73,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Metal_Water_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 66,
+    "desc": "A month of Expression. Your Metal energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Wood_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 66,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Wood_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 59,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Wood_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 71,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Wood_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 43,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Wood_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 77,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Wood_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 76,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Wood_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 68,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Wood_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 78,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Wood_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 54,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Wood_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 84,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Wood_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 50,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Wood_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 47,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Wood_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 57,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Wood_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 40,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Wood_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 59,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Wood_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 79,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Wood_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 77,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Wood_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 86,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Wood_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 61,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Wood_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 90,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Wood_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 72,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Wood_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 65,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Wood_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 73,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Wood_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 48,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Wood_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 82,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Fire_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 77,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Fire_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 65,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Fire_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 60,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Fire_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 69,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Fire_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 43,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Fire_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 84,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Fire_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 74,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Fire_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 69,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Fire_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 79,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Fire_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 57,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Fire_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 61,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Fire_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 50,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Fire_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 46,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Fire_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 54,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Fire_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 40,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Fire_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 90,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Fire_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 82,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Fire_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 77,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Fire_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 87,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Fire_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 61,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Fire_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 79,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Fire_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 69,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Fire_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 63,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Fire_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 73,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Fire_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 50,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Earth_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 44,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Earth_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 77,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Earth_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 64,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Earth_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 61,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Earth_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 70,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Earth_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 56,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Earth_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 85,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Earth_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 75,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Earth_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 71,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Earth_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 82,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Earth_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 40,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Earth_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 59,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Earth_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 49,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Earth_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 45,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Earth_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 57,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Earth_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 59,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Earth_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 90,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Earth_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 78,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Earth_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 75,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Earth_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 87,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Earth_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 51,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Earth_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 79,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Earth_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 71,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Earth_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 65,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Earth_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 75,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Metal_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 71,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Metal_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 43,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Metal_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 77,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Metal_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 67,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Metal_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 61,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Metal_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 80,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Metal_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 55,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Metal_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 85,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Metal_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 74,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Metal_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 71,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Metal_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 54,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Metal_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 40,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Metal_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 58,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Metal_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 49,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Metal_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 45,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Metal_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 83,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Metal_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 58,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Metal_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 88,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Metal_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 79,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Metal_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 74,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Metal_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 73,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Metal_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 49,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Metal_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 79,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Metal_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 68,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Metal_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 64,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Water_vs_Wood_Wood": {
+    "title": "Wood Month",
+    "score": 61,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Water_vs_Wood_Fire": {
+    "title": "Wood Month",
+    "score": 68,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Water_vs_Wood_Earth": {
+    "title": "Wood Month",
+    "score": 45,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Water_vs_Wood_Metal": {
+    "title": "Wood Month",
+    "score": 73,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Water_vs_Wood_Water": {
+    "title": "Wood Month",
+    "score": 63,
+    "desc": "A month of Expression. Your Water energy interacts with the month's Wood in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Water_vs_Fire_Wood": {
+    "title": "Fire Month",
+    "score": 72,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Water_vs_Fire_Fire": {
+    "title": "Fire Month",
+    "score": 78,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Water_vs_Fire_Earth": {
+    "title": "Fire Month",
+    "score": 54,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Water_vs_Fire_Metal": {
+    "title": "Fire Month",
+    "score": 86,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Water_vs_Fire_Water": {
+    "title": "Fire Month",
+    "score": 77,
+    "desc": "A productive month where your Water skills can manage the Fire resources effectively. Career growth is visible.",
+    "advice": "Push for promotion or profit."
+  },
+  "Water_Water_vs_Earth_Wood": {
+    "title": "Earth Month",
+    "score": 43,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Water_vs_Earth_Fire": {
+    "title": "Earth Month",
+    "score": 53,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Water_vs_Earth_Earth": {
+    "title": "Earth Month",
+    "score": 40,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Water_vs_Earth_Metal": {
+    "title": "Earth Month",
+    "score": 62,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Water_vs_Earth_Water": {
+    "title": "Earth Month",
+    "score": 49,
+    "desc": "This month, the social environment (Earth) restricts your freedom. Rules are strict like strict metal or a heavy mountain.",
+    "advice": "Keep a low profile at work."
+  },
+  "Water_Water_vs_Metal_Wood": {
+    "title": "Metal Month",
+    "score": 75,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Water_vs_Metal_Fire": {
+    "title": "Metal Month",
+    "score": 87,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Water_vs_Metal_Earth": {
+    "title": "Metal Month",
+    "score": 59,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Water_vs_Metal_Metal": {
+    "title": "Metal Month",
+    "score": 91,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Water_vs_Metal_Water": {
+    "title": "Metal Month",
+    "score": 82,
+    "desc": "The environment favors you. Mentors representing Metal energy will support your wise growth.",
+    "advice": "Seek guidance or sign contracts."
+  },
+  "Water_Water_vs_Water_Wood": {
+    "title": "Water Month",
+    "score": 64,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Water_vs_Water_Fire": {
+    "title": "Water Month",
+    "score": 75,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Water_vs_Water_Earth": {
+    "title": "Water Month",
+    "score": 51,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Water_vs_Water_Metal": {
+    "title": "Water Month",
+    "score": 81,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  },
+  "Water_Water_vs_Water_Water": {
+    "title": "Water Month",
+    "score": 71,
+    "desc": "A month of Companion. Your Water energy interacts with the month's Water in a balanced way.",
+    "advice": "Focus on maintaining stability."
+  }
+}
