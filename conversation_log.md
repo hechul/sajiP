@@ -19,3 +19,8 @@
 - **Debugging**: Checking the content of `test-saju.js` and running it to reproduce the error.
 - **Hypothesis**: Likely due to `package.json` having `"type": "module"` but the environment or file extension causing conflict, or simply the library wasn't installed successfully earlier.
 - **Action**: Verifying if `@types/lunar-javascript` exists.
+
+## 2026-01-19
+- **User Request**: Question about `const tempSaju = getGanji(new Date(y, 5, 15));` in `composables/useFortune.ts` - why June 15th?
+- **Action**: Searched code, identified `composables/useFortune.ts`.
+- **Analysis**: Reading file to confirm the logic. The date (June 15th) is likely chosen as a safe mid-year date to determine the year's Ganji (Secha) avoiding the ambiguous Ipchun (approx Feb 4th) boundary.
